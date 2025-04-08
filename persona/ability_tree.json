@@ -1,0 +1,133 @@
+{
+    "ability_tree": {
+      "target_knowledge": "Algebraic Equations",
+      "total_score": 25,
+      "ability": [
+        {
+          "Name": "Numerical Calculation",
+          "Score": [
+            {
+              "score": 1,
+              "Description": "Can understand the basic concepts of addition, subtraction, multiplication and division, but calculations are slow and error-prone, and have not yet mastered the calculation of fractions and decimals."
+            },
+            {
+              "score": 2,
+              "Description": "Able to independently complete the four basic arithmetic operations, understand fractions and decimals, and begin to try to solve simple one-step equations."
+            },
+            {
+              "score": 3,
+              "Description": "Proficient in the four arithmetic operations, fraction and decimal operations, able to solve simple one-step equations and perform basic percentage calculations."
+            },
+            {
+              "score": 4,
+              "Description": "Perform complex four arithmetic operations quickly and accurately, and can solve more complex fractional decimal problems and linear equations of one variable."
+            },
+            {
+              "score": 5,
+              "Description": "Accurately and quickly handle advanced math operations and problems, including multi-step equation solving and difficult percentage calculations."
+            }
+          ]
+        },
+        {
+          "Name": "Abstract Thinking",
+          "Score": [
+            {
+              "score": 1,
+              "Description": "Initial understanding of mathematical concepts, difficulty in independent thinking and application of abstract concepts."
+            },
+            {
+              "score": 2,
+              "Description": "Ability to recognize simple mathematical patterns and relationships, but limited in higher level abstract thinking."
+            },
+            {
+              "score": 3,
+              "Description": "Able to understand and use mathematical concepts to solve problems, with a certain level of abstract thinking."
+            },
+            {
+              "score": 4,
+              "Description": "Ability to naturally use abstract thinking to solve more complex mathematical problems."
+            },
+            {
+              "score": 5,
+              "Description": "Has a deep understanding at an abstract level and the ability to creatively solve difficult mathematical problems."
+            }
+          ]
+        },
+        {
+          "Name": "Logical Reasoning",
+          "Score": [
+            {
+              "score": 1,
+              "Description": "Understands basic logical sequences, but needs assistance with logical reasoning to solve problems."
+            },
+            {
+              "score": 2,
+              "Description": "Able to perform simple logical deductions, but may make mistakes in complex logical chains."
+            },
+            {
+              "score": 3,
+              "Description": "Proficiently use logical reasoning to solve daily logic problems and simple mathematical problems."
+            },
+            {
+              "score": 4,
+              "Description": "Master good logical reasoning skills and be able to deal with more complex logical and mathematical problems."
+            },
+            {
+              "score": 5,
+              "Description": "Has excellent logical reasoning ability and can independently solve difficult logical and mathematical problems."
+            }
+          ]
+        },
+        {
+          "Name": "Analogy Association",
+          "Score": [
+            {
+              "score": 1,
+              "Description": "Can recognize very basic similarities, but has difficulty making independent analogical associations."
+            },
+            {
+              "score": 2,
+              "Description": "Ability to solve simple problems through intuitive comparisons, with limited analogies."
+            },
+            {
+              "score": 3,
+              "Description": "Ability to effectively use analogies and associations to apply known concepts to solve new problems."
+            },
+            {
+              "score": 4,
+              "Description": "Able to use analogies and associations flexibly to solve problems of medium difficulty."
+            },
+            {
+              "score": 5,
+              "Description": "Highly developed ability of analogy and association, able to effectively compare and apply complex concepts."
+            }
+          ]
+        },
+        {
+          "Name": "Spatial Imagination",
+          "Score": [
+            {
+              "score": 1,
+              "Description": "Able to understand basic spatial concepts, but need the support of concrete objects in spatial imagination."
+            },
+            {
+              "score": 2,
+              "Description": "Ability to imagine space to a limited extent and handle simple spatial problems."
+            },
+            {
+              "score": 3,
+              "Description": "Ability to conceive of three-dimensional space and solve basic spatial geometry problems."
+            },
+            {
+              "score": 4,
+              "Description": "Ability to imagine and manipulate complex spatial shapes and objects with relative accuracy."
+            },
+            {
+              "score": 5,
+              "Description": "Has a high level of spatial imagination and can solve difficult spatial problems."
+            }
+          ]
+        }
+      ]
+    }
+}

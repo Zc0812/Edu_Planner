@@ -1,0 +1,1744 @@
+question,solution,final_answer
+Suppose that the value of x is ?4. What is the value of the expression (3x ? 5) + x?,"Step 1: Substitute the value of x into the expression (3x - 5) + x.
+Step 2: Simplify the expression by performing the operations within the parentheses first. 
+Step 3: Multiply 3 by -4, which equals -12. 
+Step 4: Subtract 5 from -12, which equals -17. 
+Step 5: Add -17 to -4, which equals -21. 
+Step 6: The value of the expression (3x - 5) + x, when x is -4, is -21.",-21
+"A brownie recipe is asking for 350 grams of sugar, and a pound cake recipe requires 270 more grams of sugar than a brownie recipe. How many grams of sugar are needed for the pound cake?","Step 1: Identify the amount of sugar needed for the brownie recipe, which is 350 grams.
+Step 2: Understand that the pound cake recipe requires 270 more grams of sugar than the brownie recipe.
+Step 3: Add the additional 270 grams of sugar to the 350 grams required for the brownie recipe.
+Step 4: The total amount of sugar needed for the pound cake recipe is 350 grams + 270 grams = 620 grams.",620
+"The size of a compressed file is 1.74 MiB, while the size of the original uncompressed file is 5.5 times greater. What is the size of the uncompressed file, in MiB?","Step 1: Identify the size of the compressed file, which is 1.74 MiB.
+Step 2: Understand that the original uncompressed file is 5.5 times greater in size.
+Step 3: Multiply the size of the compressed file by 5.5 to find the size of the uncompressed file.
+Step 4: The size of the uncompressed file is 1.74 MiB * 5.5 = 9.57 MiB.",9.57
+Margo is 5 years old and Ivan is 34 years older than Margo. How old is Ivan?,"Solution:
+Step 1: Identify Margo's age, which is 5 years old.
+Step 2: Understand that Ivan is 34 years older than Margo.
+Step 3: Add the additional 34 years to Margo's age.
+Step 4: Ivan's age is Margo's age + 34 years.",39
+"Alice runs 1.9 times faster than Bob, who runs at 4.7 mph. How fast does Alice run, in mph?","Step 1: Identify Bob's running speed, which is 4.7 mph.
+Step 2: Understand that Alice runs 1.9 times faster than Bob.
+Step 3: Multiply Bob's speed by 1.9 to find Alice's speed.
+Step 4: Calculate Alice's speed by multiplying 4.7 mph by 1.9.
+Step 5: The speed at which Alice runs is 8.93 mph.",8.93
+"Tao¡¯s first car was 3 times cheaper than his second car, and he bought his second car for 7899 dollars. How much was Tao¡¯s first car?","Solution:
+Step 1: Identify the price of Tao's second car, which is 7899 dollars.
+Step 2: Understand that Tao's first car was 3 times cheaper than his second car.
+Step 3: Divide the price of Tao's second car by 3 to find the price of his first car.
+Step 4: The price of Tao's first car is 7899 dollars / 3 = 2633 dollars.",2633
+"The profit of ACME Corporation in the second quarter was 8.84 billion dollars, which was 1.3 times greater than the profit in the first quarter. What was ACME¡¯s profit in the first quarter?","Step 1: Identify the profit of ACME Corporation in the second quarter, which is 8.84 billion dollars.
+Step 2: Understand that the profit in the second quarter is 1.3 times greater than the profit in the first quarter.
+Step 3: Divide the profit in the second quarter by 1.3 to find the profit in the first quarter.
+Step 4: The profit in the first quarter is 8.84 billion dollars divided by 1.3 = 6.8 billion dollars.",6.8
+The width of a rectangle is 125 meters shorter than the length. Find the length if the width is 205 meters.,"Step 1: Let's assume the length of the rectangle is ""L"" meters.
+Step 2: According to the problem, the width of the rectangle is 125 meters shorter than the length, so the width is ""L - 125"" meters.
+Step 3: Given that the width is 205 meters, we can set up the equation ""L - 125 = 205"".
+Step 4: To solve the equation, we can add 125 to both sides: ""L - 125 + 125 = 205 + 125"".
+Step 5: Simplifying the equation, we get ""L = 330"".
+Step 6: Therefore, the length of the rectangle is 330 meters.",330
+The payout for playing a single number on a roulette table is 35 times greater than the bet. Cindy receives the payout of $3850. How much was Cindy¡¯s bet?,"Step 1: Let's assume Cindy's bet amount as 'x'.
+Step 2: According to the problem, the payout for playing a single number on a roulette table is 35 times greater than the bet. So, the payout amount is 35x.
+Step 3: We are given that Cindy receives a payout of $3850. So, we can set up the equation 35x = 3850.
+Step 4: To find the value of 'x', we divide both sides of the equation by 35: x = 3850 / 35.
+Step 5: Evaluating the division, we get x = 110.
+Step 6: Therefore, Cindy's bet amount was $110.",110
+"A history textbook costs $90, which is five times cheaper than an anatomy textbook. Find the price of the anatomy text.","Step 1: Identify the cost of the history textbook, which is $90.
+Step 2: Understand that the anatomy textbook is five times more expensive than the history textbook.
+Step 3: Multiply the cost of the history textbook by 5 to find the cost of the anatomy textbook.
+Step 4: The price of the anatomy textbook is $90 x 5 = $450.",450
+"According to NASA, the global land-ocean temperature index (average surface temperature of Earth) in 2016 is 1.26 ?C greater than it was in 1920. Find the average temperature in 1920 if it was 0.99 ?C in 2016.","Step 1: Identify the temperature difference between 2016 and 1920, which is 1.26 ?C.
+Step 2: Understand that the average temperature in 2016 is 0.99 ?C.
+Step 3: Subtract the temperature difference of 1.26 ?C from the average temperature in 2016 to find the average temperature in 1920.
+Step 4: The average temperature in 1920 is 0.99 ?C - 1.26 ?C = -0.27 ?C.",-0.27
+"Damian¡¯s age is one year less than twice the Colin¡¯s age. How old is Colin, if Damian is 17 years old?","Solution:
+Step 1: Let's assume Colin's age as ""x"".
+Step 2: According to the problem, Damian's age is one year less than twice Colin's age, which can be expressed as 2x - 1.
+Step 3: Given that Damian is 17 years old, we can set up the equation 2x - 1 = 17.
+Step 4: Solve the equation for x by adding 1 to both sides: 2x = 18.
+Step 5: Divide both sides of the equation by 2 to isolate x: x = 9.
+Step 6: Therefore, Colin is 9 years old.",9
+"Bob says to Alice: if you give me 3 apples and then take half of my apples away, then I will be left with 13 apples. How many apples do I have now?","Solution:
+Step 1: Let's assume that Bob initially had x apples.
+Step 2: According to the problem, if Alice gives Bob 3 apples, he will have x + 3 apples.
+Step 3: If Alice then takes away half of Bob's apples, he will be left with (x + 3) / 2 apples.
+Step 4: The problem states that Bob is left with 13 apples, so we can set up the equation (x + 3) / 2 = 13.
+Step 5: To solve for x, we can multiply both sides of the equation by 2 to eliminate the fraction: x + 3 = 26.
+Step 6: Subtract 3 from both sides of the equation to isolate x: x = 23.
+Step 7: Therefore, Bob initially had 23 apples.",23
+"Alice works two jobs. Her full-time job pays four times more than her part-time job, and together they pay 3800 dollars per month. Find how much her full-time job pays per month.","Step 1: Let's assume the amount of money Alice earns from her part-time job is x dollars per month.
+Step 2: According to the problem, Alice's full-time job pays four times more than her part-time job. Therefore, her full-time job pays 4x dollars per month.
+Step 3: The total amount of money Alice earns per month is the sum of her part-time job and her full-time job, which is x + 4x = 5x dollars.
+Step 4: We know that the total amount of money Alice earns per month is 3800 dollars. So, we can set up the equation 5x = 3800.
+Step 5: To find the value of x, we divide both sides of the equation by 5: x = 3800 / 5 = 760.
+Step 6: Now, we can find how much Alice's full-time job pays per month by substituting the value of x back into the equation: 4x = 4 * 760 = 3040.
+Step 7: Therefore, Alice's full-time job pays 3040 dollars per month.",3040
+"Rita bought rice and truffles a grocery store, and she paid $67.5 more for truffles than she paid for the rice. Find the price of rice if the total bill was $72.","Step 1: Let's assume the price of rice is x dollars.
+Step 2: According to the problem, Rita paid $67.5 more for truffles than she paid for rice. So, the price of truffles would be x + $67.5.
+Step 3: The total bill was $72, which means the price of rice plus the price of truffles equals $72. So, x + (x + $67.5) = $72.
+Step 4: Simplify the equation: 2x + $67.5 = $72.
+Step 5: Subtract $67.5 from both sides of the equation: 2x = $72 - $67.5.
+Step 6: Simplify the right side of the equation: 2x = $4.5.
+Step 7: Divide both sides of the equation by 2: x = $4.5 / 2.
+Step 8: Simplify the right side of the equation: x = $2.25.
+
+Therefore, the price of rice is $2.25.",2.25
+"Alice, Bob, and Charlie stand to inherit 12000 dollars, and the will stipulates that the inheritance is to be split in such a way that Bob gets two times more money than Alice, while Charlie should get 1600 dollars less than Alice. Find the inheritance amount for Alice.","Step 1: Let's assume the inheritance amount for Alice is x dollars.
+Step 2: According to the given information, Bob gets two times more money than Alice, so Bob's inheritance amount is 2x dollars.
+Step 3: Charlie should get 1600 dollars less than Alice, so Charlie's inheritance amount is (x - 1600) dollars.
+Step 4: The total inheritance amount is the sum of the individual inheritance amounts, which is x + 2x + (x - 1600) = 12000 dollars.
+Step 5: Simplifying the equation, we have 4x - 1600 = 12000.
+Step 6: Adding 1600 to both sides of the equation, we get 4x = 13600.
+Step 7: Dividing both sides of the equation by 4, we find x = 3400.
+Step 8: Therefore, the inheritance amount for Alice is 3400 dollars.",3400
+"Katy invested some money into bonds, and the amount of interest earned after one year was 25 times smaller than the original investment. Find the interest if the total amount in her account is $546.","Step 1: Let's assume the original investment amount as x dollars.
+Step 2: According to the problem, the interest earned after one year is 25 times smaller than the original investment. So, the interest earned is (1/25) * x dollars.
+Step 3: The total amount in Katy's account is the sum of the original investment and the interest earned, which is x + (1/25) * x = (26/25) * x dollars.
+Step 4: We are given that the total amount in Katy's account is $546. So, (26/25) * x = 546.
+Step 5: To find the value of x, we can multiply both sides of the equation by (25/26): (25/26) * (26/25) * x = (25/26) * 546.
+Step 6: Simplifying, we get x = 525.
+Step 7: Now, to find the interest earned, we can substitute the value of x back into the expression (1/25) * x: (1/25) * 525 = 21 dollars.
+Step 8: Therefore, the interest earned by Katy is $21.",21
+"An ¨¦clair has five times as many calories as a latte, and together they have 264 calories. Find how many calories an ¨¦clair has.","Step 1: Let's assume the number of calories in a latte is x.
+Step 2: According to the problem, an ¨¦clair has five times as many calories as a latte, so the number of calories in an ¨¦clair is 5x.
+Step 3: The total number of calories in an ¨¦clair and a latte together is given as 264 calories, so we can write the equation: x + 5x = 264.
+Step 4: Simplifying the equation, we get 6x = 264.
+Step 5: To solve for x, divide both sides of the equation by 6: x = 264/6 = 44.
+Step 6: Now, substitute the value of x back into the equation to find the number of calories in an ¨¦clair: 5x = 5 * 44 = 220.
+Step 7: Therefore, an ¨¦clair has 220 calories.",220
+The width of a rectangular parking lot is 40 feet shorter than its length. Find the width of the lot if its perimeter is 640 feet.,"Step 1: Let's assume the length of the rectangular parking lot is ""x"" feet.
+Step 2: According to the problem, the width of the parking lot is 40 feet shorter than its length, so the width can be represented as ""x - 40"" feet.
+Step 3: The perimeter of a rectangle is given by the formula P = 2(length + width). In this case, the perimeter is 640 feet, so we can write the equation as 640 = 2(x + x - 40).
+Step 4: Simplify the equation: 640 = 2(2x - 40).
+Step 5: Distribute the 2 on the right side of the equation: 640 = 4x - 80.
+Step 6: Move the constant term to the left side of the equation: 640 + 80 = 4x.
+Step 7: Combine like terms: 720 = 4x.
+Step 8: Divide both sides of the equation by 4 to solve for x: x = 720/4.
+Step 9: Simplify: x = 180.
+Step 10: The length of the parking lot is 180 feet.
+Step 11: Substitute the value of x into the expression for the width: width = x - 40 = 180 - 40.
+Step 12: Calculate the width: width = 140 feet.
+Therefore, the width of the rectangular parking lot is 140 feet.",140
+"Consider an astronomical triangle with sides a, b, and c, such that the length of the side b is 3 light-years longer the length of a, and the length of c is 6 times shorter than the length of a. Find the length of side a if the perimeter of the triangle is 55 light-years.","Step 1: Let's assume the length of side a as ""x"" light-years.
+Step 2: According to the problem, the length of side b is 3 light-years longer than side a, so the length of side b is (x + 3) light-years.
+Step 3: The length of side c is 6 times shorter than side a, so the length of side c is (x/6) light-years.
+Step 4: The perimeter of the triangle is the sum of the lengths of all three sides, which is given as 55 light-years. So, we can write the equation: x + (x + 3) + (x/6) = 55.
+Step 5: Simplify the equation: 6x + 6(x + 3) + x = 330.
+Step 6: Expand and combine like terms: 6x + 6x + 18 + x = 330.
+Step 7: Combine like terms: 13x + 18 = 330.
+Step 8: Subtract 18 from both sides: 13x = 312.
+Step 9: Divide both sides by 13: x = 24.
+Step 10: Therefore, the length of side a is 24 light-years.",24
+A monthly pass for light rail is 1.2 times cheaper than the a bundle with 20 day passes. Find the price of the monthly pass if the bundle costs $10 more than the monthly pass.,"Step 1: Let's assume the price of the monthly pass is x dollars.
+Step 2: According to the given information, the bundle with 20 day passes costs $10 more than the monthly pass. So, the price of the bundle is x + $10.
+Step 3: It is stated that the monthly pass is 1.2 times cheaper than the bundle. Therefore, the price of the monthly pass is 1.2 times less than the price of the bundle, which can be expressed as 1.2(x + $10).
+Step 4: To find the price of the monthly pass, we need to solve the equation 1.2(x + $10) = x.
+Step 5: Distribute 1.2 to both terms inside the parentheses: 1.2x + 1.2($10) = x.
+Step 6: Multiply 1.2 by $10: 1.2x + $12 = x.
+Step 7: Subtract x from both sides of the equation: 1.2x - x + $12 = 0.
+Step 8: Simplify the equation: 0.2x + $12 = 0.
+Step 9: Subtract $12 from both sides of the equation: 0.2x = -$12.
+Step 10: Divide both sides of the equation by 0.2 to solve for x: x = -$12 / 0.2.
+Step 11: Calculate the value of x: x = -$60.
+Step 12: Since the price cannot be negative, we disregard the negative value. Therefore, the price of the monthly pass is $60.",50
+"A bread recipe calls for a mix of bleached flour, whole wheat flour, and rye flour. The volume of whole wheat should be two times greater than the volume of bleached, and the volume of rye should be 1 cup less than the volume of bleached. Find the volume in cups for bleached flour if the recipe is asking for 15 cups of flour in total.","Step 1: Let's assume the volume of bleached flour as x cups.
+Step 2: According to the problem, the volume of whole wheat flour should be two times greater than the volume of bleached flour. So, the volume of whole wheat flour is 2x cups.
+Step 3: The volume of rye flour should be 1 cup less than the volume of bleached flour. So, the volume of rye flour is (x - 1) cups.
+Step 4: The total volume of flour required is given as 15 cups.
+Step 5: Set up the equation: x + 2x + (x - 1) = 15.
+Step 6: Simplify the equation: 4x - 1 = 15.
+Step 7: Add 1 to both sides of the equation: 4x = 16.
+Step 8: Divide both sides of the equation by 4: x = 4.
+Step 9: Therefore, the volume of bleached flour required is 4 cups.",4
+The number 21 is what percent of 70?,"Step 1: Identify the given numbers, which are 21 and 70.
+Step 2: Set up the equation: Let x be the unknown percentage. Then, x% of 70 is equal to 21.
+Step 3: Write the equation: x% * 70 = 21.
+Step 4: Convert the percentage to a decimal by dividing x by 100: (x/100) * 70 = 21.
+Step 5: Simplify the equation: 0.7x = 21.
+Step 6: Solve for x by dividing both sides of the equation by 0.7: x = 21 / 0.7.
+Step 7: Calculate the value of x: x = 30.
+Step 8: The number 21 is 30% of 70.",30
+The number 330 is 120% of what number?,"Step 1: Let's assume the unknown number as ""x"".
+Step 2: Write the equation: 330 = 120% of x.
+Step 3: Convert the percentage to a decimal by dividing it by 100: 120/100 = 1.2.
+Step 4: Rewrite the equation: 330 = 1.2 * x.
+Step 5: Divide both sides of the equation by 1.2 to isolate the variable: 330/1.2 = x.
+Step 6: Calculate the value of x: x = 275.
+Step 7: Therefore, the number 330 is 120% of 275.",275
+A department store puts up shirts on sale at 35% discount. Find the original price of a shirt before the discount if the new price is $26.,"Step 1: Let's assume the original price of the shirt before the discount is ""x"" dollars.
+Step 2: Apply the 35% discount to the original price by multiplying it by (1 - 0.35) or 0.65.
+Step 3: Calculate the new price of the shirt by multiplying the original price by the discount factor: 0.65x = $26.
+Step 4: Solve the equation for x by dividing both sides by 0.65: x = $26 / 0.65.
+Step 5: Simplify the expression on the right side to find the original price: x ¡Ö $40.",40
+"A fast food chain raised the price of the beef burger from $5 to $6, and lowered the price of the chicken burger from $6 to $5. Find the percent increase for the price of the beef burger.","Step 1: Identify the original price of the beef burger, which is $5.
+Step 2: Identify the new price of the beef burger, which is $6.
+Step 3: Calculate the difference between the new price and the original price: $6 - $5 = $1.
+Step 4: Calculate the percent increase by dividing the difference by the original price and multiplying by 100: ($1 / $5) * 100 = 20%.
+Step 5: The percent increase for the price of the beef burger is 20%.",20
+Suzy earned $208 in tips after 20% income tax. What was her pre-tax income?,"Step 1: Let's assume Suzy's pre-tax income as ""x"".
+Step 2: Calculate the amount of income tax by multiplying the pre-tax income (x) by 20%: 0.2x.
+Step 3: Subtract the income tax from the pre-tax income to find the amount of tips Suzy earned: x - 0.2x = 0.8x.
+Step 4: Set up an equation to represent the given information: 0.8x = $208.
+Step 5: Solve the equation for x by dividing both sides by 0.8: x = $208 / 0.8.
+Step 6: Calculate the value of x to find Suzy's pre-tax income: x = $260.",260
+"A department store puts dresses up for sale at 30% discount. If the discounted price of a dress is $42, what was the original price before the discount?","Step 1: Let's assume the original price of the dress before the discount is ""x"" dollars.
+Step 2: We know that the dress is being sold at a 30% discount, which means the discounted price is 70% of the original price.
+Step 3: We can set up an equation: 70% of x = $42.
+Step 4: To solve for x, we need to convert 70% to decimal form by dividing it by 100: 0.70x = $42.
+Step 5: Divide both sides of the equation by 0.70 to isolate x: x = $42 / 0.70.
+Step 6: Evaluating the right side of the equation, we find that x = $60.
+Step 7: Therefore, the original price of the dress before the discount was $60.",60
+Alice invested $1230 into a savings account with 1.4% monthly interest rate. What is the balance in the account after one month?,"Solution:
+Step 1: Identify the initial amount of money invested, which is $1230.
+Step 2: Understand that the monthly interest rate is 1.4%.
+Step 3: Calculate the interest earned in one month by multiplying the initial amount by the monthly interest rate: $1230 * 1.4% = $17.22.
+Step 4: Add the interest earned to the initial amount to find the balance after one month: $1230 + $17.22 = $1247.22.
+Step 5: The balance in the account after one month is $1247.22.",1247.22
+"Brent paid $5824 for a car, and this price included the 4% sales tax. How much did the car cost before the sales tax was applied?","Step 1: Identify the total amount Brent paid for the car, which is $5824.
+Step 2: Understand that the total amount includes a 4% sales tax.
+Step 3: Calculate the sales tax amount by multiplying the total amount by 4%: $5824 * 4% = $232.96.
+Step 4: Subtract the sales tax amount from the total amount to find the cost of the car before the sales tax was applied: $5824 - $232.96 = $5591.04.
+Step 5: The car cost $5591.04 before the sales tax was applied.",5600
+Roger paid $238 for a webcam during a 15%-off sale. Find the original price of the webcam.,"Step 1: Identify the amount paid by Roger for the webcam, which is $238.
+Step 2: Understand that the webcam was purchased during a 15%-off sale.
+Step 3: Calculate the original price of the webcam by dividing the amount paid by (1 - 15%).
+Step 4: The original price of the webcam is $238 / (1 - 0.15).",280
+Ivan can grade 25 quizzes per hour. Find how many quizzes Ivan can grade in 4 hours.,"Step 1: Identify the number of quizzes Ivan can grade per hour, which is 25 quizzes.
+Step 2: Understand that Ivan will be grading for 4 hours.
+Step 3: Multiply the number of quizzes Ivan can grade per hour (25 quizzes) by the number of hours (4 hours).
+Step 4: The total number of quizzes Ivan can grade in 4 hours is 25 quizzes/hour * 4 hours = 100 quizzes.",100
+Taylor makes 18 dollars per hour at her job. Find how many dollars Taylor earns in 3.5 hours.,"Step 1: Identify Taylor's hourly wage, which is $18 per hour.
+Step 2: Understand that Taylor worked for 3.5 hours.
+Step 3: Multiply Taylor's hourly wage by the number of hours worked: $18/hour * 3.5 hours = $63.
+Step 4: Taylor earns $63 in 3.5 hours.",63
+Uri can walk 7 km in 2 hours. Find how many kilometers Uri can walk per hour.,"Step 1: Identify the distance Uri can walk, which is 7 km, and the time it takes, which is 2 hours.
+Step 2: Understand that the rate of walking is calculated by dividing the distance by the time.
+Step 3: Divide the distance of 7 km by the time of 2 hours to find the rate of walking per hour.
+Step 4: The rate of walking per hour is 7 km / 2 hours = 3.5 km/h.",3.5
+"Apu takes the express train from Springfield to Capital City, and a regular train on his way back from Capital City to Springfield. The express completes the trip in 4 hours 30 minutes, while the regular train covers the same distance in 6 hours. Find the speed of the express, in miles per hour, if the express runs 15 miles per hour faster.","Step 1: Convert the time taken by the express train from hours and minutes to hours. 4 hours 30 minutes is equal to 4.5 hours.
+Step 2: Convert the time taken by the regular train from hours to hours. 6 hours remains the same.
+Step 3: Let the speed of the express train be represented by x miles per hour.
+Step 4: The speed of the regular train is x - 15 miles per hour, as it runs 15 miles per hour slower than the express train.
+Step 5: Use the formula speed = distance / time to find the distance covered by both trains. 
+Step 6: For the express train, distance = speed * time = x * 4.5 miles.
+Step 7: For the regular train, distance = speed * time = (x - 15) * 6 miles.
+Step 8: Since both trains cover the same distance, we can set up the equation x * 4.5 = (x - 15) * 6.
+Step 9: Solve the equation for x. Distribute and simplify: 4.5x = 6x - 90.
+Step 10: Subtract 6x from both sides: 4.5x - 6x = -90.
+Step 11: Combine like terms: -1.5x = -90.
+Step 12: Divide both sides by -1.5: x = -90 / -1.5.
+Step 13: Simplify: x = 60.
+Step 14: The speed of the express train is 60 miles per hour.",60
+"Kay and July are opening the incoming mail together, with the goal of processing 400 envelopes. Find how many hours they need to complete the task if Kay can process 15 envelopes per hour, and July can process 35 envelopes per hour.","Step 1: Identify the number of envelopes Kay can process per hour, which is 15 envelopes.
+Step 2: Identify the number of envelopes July can process per hour, which is 35 envelopes.
+Step 3: Calculate the total number of envelopes both Kay and July can process per hour by adding their individual rates: 15 envelopes + 35 envelopes = 50 envelopes per hour.
+Step 4: Divide the total number of envelopes that need to be processed (400 envelopes) by the combined rate of Kay and July (50 envelopes per hour) to find the number of hours needed to complete the task: 400 envelopes ¡Â 50 envelopes per hour = 8 hours. 
+Step 5: Therefore, it will take Kay and July 8 hours to complete processing 400 envelopes.",8
+"One morning Aristotle starts walking from Athens to Megara, and at the same time Socrates starts on a journey from Megara to Athens. Being younger, Aristotle is walking 1.8 times faster than Socrates. After a 5 hour journey, they meet somewhere in the middle of the way. Find the speed of Aristotle, in km per hour, if the total distance between Athens and Megara is 42 km.","Step 1: Let's assume the speed of Socrates is x km/h. 
+Step 2: Since Aristotle is walking 1.8 times faster than Socrates, his speed would be 1.8x km/h. 
+Step 3: After 5 hours, Socrates would have traveled 5x km, and Aristotle would have traveled 5(1.8x) km. 
+Step 4: Since they meet somewhere in the middle, the total distance traveled by both of them would be half of the total distance between Athens and Megara, which is 42/2 = 21 km. 
+Step 5: Therefore, the equation would be 5x + 5(1.8x) = 21. 
+Step 6: Simplifying the equation, we get 5x + 9x = 21. 
+Step 7: Combining like terms, we get 14x = 21. 
+Step 8: Dividing both sides of the equation by 14, we get x = 1.5. 
+Step 9: So, the speed of Socrates is 1.5 km/h. 
+Step 10: To find the speed of Aristotle, we multiply his speed by 1.8, which gives us 1.8 * 1.5 = 2.7 km/h. 
+Step 11: Therefore, the speed of Aristotle is 2.7 km/h.",5.4
+The top speed of a bullet train is 210 km per hour. Find how many hours it takes to travel 168 km at top speed.,"Step 1: Identify the top speed of the bullet train, which is 210 km per hour.
+Step 2: Understand that we need to find the number of hours it takes to travel 168 km at the top speed.
+Step 3: Divide the distance of 168 km by the top speed of 210 km per hour to find the number of hours.
+Step 4: The number of hours it takes to travel 168 km at the top speed is 168 km / 210 km per hour = 0.8 hours.",0.8
+A standard computer hard drive rotates at 5400 revolutions per minute. Find the number of revolutions over 10 seconds.,"Step 1: Identify the number of revolutions per minute for the computer hard drive, which is 5400 revolutions.
+Step 2: Understand that there are 60 seconds in a minute.
+Step 3: Divide the number of revolutions per minute by 60 to find the number of revolutions per second. 5400 revolutions / 60 seconds = 90 revolutions per second.
+Step 4: Multiply the number of revolutions per second by 10 to find the number of revolutions over 10 seconds. 90 revolutions per second * 10 seconds = 900 revolutions. 
+Step 5: The number of revolutions over 10 seconds for the computer hard drive is 900 revolutions.",900
+Eve typed up a 4050 word document over two and a half hours. Find Eve¡¯s typing rate in words per minute.,"Step 1: Convert the time from hours to minutes. Since there are 60 minutes in an hour, multiply the number of hours by 60. In this case, 2.5 hours * 60 = 150 minutes.
+Step 2: Divide the total number of words typed (4050) by the number of minutes it took (150) to find the typing rate in words per minute. 4050 words / 150 minutes = 27 words per minute.
+Step 3: Therefore, Eve's typing rate is 27 words per minute.",27
+Jamie charges $80 per hour for her paralegal work. Find how many hours she has to work in order to earn $2000.,"Step 1: Identify the hourly rate Jamie charges for her paralegal work, which is $80 per hour.
+Step 2: Understand that Jamie wants to earn $2000.
+Step 3: Divide the total amount Jamie wants to earn ($2000) by her hourly rate ($80) to find the number of hours she needs to work.
+Step 4: $2000 ¡Â $80 = 25 hours.
+Step 5: Jamie needs to work 25 hours in order to earn $2000.",25
+It takes Bongo two and a half hours to mow the front lawn. Find how many times he can mow the same lawn in 40 hours.,"Step 1: Identify the time it takes Bongo to mow the front lawn, which is two and a half hours.
+Step 2: Understand that Bongo wants to know how many times he can mow the same lawn in 40 hours.
+Step 3: Divide the total time available (40 hours) by the time it takes to mow the lawn (2.5 hours) to find the number of times he can mow the lawn.
+Step 4: Calculate 40 hours ¡Â 2.5 hours = 16.
+Step 5: Bongo can mow the same lawn 16 times in 40 hours.",16
+"Alice paddled for 3 hours upstream and then for 2 hours downstream. When going downstream, her speed was 10 mph greater than her speed when going upstream. The total distance traveled was 30 miles. How fast did Alice travel upstream, in mph?","Step 1: Let's assume Alice's speed when going upstream is x mph.
+Step 2: Since Alice's speed when going downstream is 10 mph greater than her speed when going upstream, her speed when going downstream is (x + 10) mph.
+Step 3: The total time spent paddling upstream is 3 hours, so the distance traveled upstream is 3x miles.
+Step 4: The total time spent paddling downstream is 2 hours, so the distance traveled downstream is 2(x + 10) miles.
+Step 5: The total distance traveled is 30 miles, so the sum of the distances traveled upstream and downstream is 3x + 2(x + 10) = 30 miles.
+Step 6: Simplify the equation: 3x + 2x + 20 = 30.
+Step 7: Combine like terms: 5x + 20 = 30.
+Step 8: Subtract 20 from both sides: 5x = 10.
+Step 9: Divide both sides by 5: x = 2.
+Step 10: Therefore, Alice traveled upstream at a speed of 2 mph.",2
+"Ridwan can plant 4 trees per hour, and Sue can plant 5.5 trees per hour. Find how many hours they need to plant 285 trees, if they are working together.","Step 1: Identify the number of trees Ridwan can plant per hour, which is 4 trees.
+Step 2: Identify the number of trees Sue can plant per hour, which is 5.5 trees.
+Step 3: Determine the combined rate at which Ridwan and Sue can plant trees per hour, which is 4 trees + 5.5 trees = 9.5 trees.
+Step 4: Divide the total number of trees that need to be planted, which is 285 trees, by the combined rate of planting per hour, which is 9.5 trees.
+Step 5: Calculate the number of hours needed to plant all the trees by dividing 285 trees by 9.5 trees per hour.
+Step 6: The number of hours needed to plant 285 trees when Ridwan and Sue are working together is the result of the division in Step 5.",30
+"A passenger and a freight train start toward each other at the same time from two points 300 miles apart. If the rate of the passenger train exceeds the rate of the freight train by 15 miles per hour, and they meet after 4 hours, what must the rate of the passenger be, in miles per hour?","Step 1: Let's assume the rate of the freight train is x miles per hour.
+Step 2: Since the rate of the passenger train exceeds the rate of the freight train by 15 miles per hour, the rate of the passenger train is x + 15 miles per hour.
+Step 3: The total distance traveled by both trains is 300 miles, and they meet after 4 hours. Therefore, the combined distance traveled by both trains is (x + x + 15) * 4 = 300 miles.
+Step 4: Simplifying the equation, we get 8x + 60 = 300.
+Step 5: Subtracting 60 from both sides of the equation, we get 8x = 240.
+Step 6: Dividing both sides of the equation by 8, we get x = 30.
+Step 7: Therefore, the rate of the freight train is 30 miles per hour.
+Step 8: The rate of the passenger train is x + 15 = 30 + 15 = 45 miles per hour.
+Step 9: The rate of the passenger train must be 45 miles per hour.",45
+"Lab 1 can process blood samples 3 times faster than Lab 2. Working together, the two labs can process 84 samples over 7 days. Find the rate of work for Lab 1, in samples per day.","Step 1: Let's assume the rate of work for Lab 2 is x samples per day.
+Step 2: Since Lab 1 can process blood samples 3 times faster than Lab 2, the rate of work for Lab 1 is 3x samples per day.
+Step 3: Working together, the two labs can process 84 samples over 7 days, which means they can process 12 samples per day (84 samples / 7 days).
+Step 4: The combined rate of work for Lab 1 and Lab 2 is (3x + x) samples per day, which is 4x samples per day.
+Step 5: Set up an equation: 4x = 12.
+Step 6: Solve the equation for x: x = 12 / 4 = 3.
+Step 7: Therefore, the rate of work for Lab 1 is 3x = 3 * 3 = 9 samples per day.",9
+"Two automobiles started at the same time from a point, but traveled in opposite directions. Their rates were 25 and 35 miles per hour respectively. After how many hours were they 180 miles apart?","Step 1: Identify the rates of the two automobiles, which are 25 miles per hour and 35 miles per hour respectively.
+Step 2: Understand that the two automobiles are traveling in opposite directions.
+Step 3: Add the rates of the two automobiles to find their combined rate, which is 25 miles per hour + 35 miles per hour = 60 miles per hour.
+Step 4: Use the formula distance = rate ¡Á time to find the time it takes for the two automobiles to be 180 miles apart. Let's denote the time as ""t"".
+Step 5: Set up the equation 180 miles = 60 miles per hour ¡Á t.
+Step 6: Solve the equation for ""t"" by dividing both sides by 60 miles per hour: t = 180 miles / 60 miles per hour.
+Step 7: Simplify the expression: t = 3 hours.
+Step 8: After 3 hours, the two automobiles will be 180 miles apart.",3
+"Suzy pays $111 for an order of 4 black printer cartridges and 7 color cartridges. When supplies start running low, she goes back to the same store and pays $126 for an order of 3 black and 10 color cartridges. Find the price of one black cartridge.","Step 1: Let's assume the price of one black cartridge is ""x"" dollars.
+Step 2: Suzy pays $111 for an order of 4 black cartridges, so the cost of 4 black cartridges is 4x dollars.
+Step 3: Suzy also pays for 7 color cartridges, but we don't know their price, so we'll leave it as ""y"" dollars.
+Step 4: The total cost of the first order is 4x + 7y dollars.
+Step 5: Suzy goes back to the store and pays $126 for an order of 3 black cartridges, so the cost of 3 black cartridges is 3x dollars.
+Step 6: Suzy also pays for 10 color cartridges, but we still don't know their price, so we'll still leave it as ""y"" dollars.
+Step 7: The total cost of the second order is 3x + 10y dollars.
+Step 8: We can set up a system of equations using the information from the two orders:
+   4x + 7y = 111
+   3x + 10y = 126
+Step 9: Solve the system of equations to find the values of x and y.
+Step 10: Once we find the value of x, we will know the price of one black cartridge.",12
+"A chemist receives an order for 10 liters of 48% isopropyl solution, that is, a solution consisting of 48 parts of isopropyl alcohol and 52 parts of water by volume. The stockroom only has some 15% solution and some 70% solution. How many liters of the 15% solution is needed in order to fulfill the order?","Step 1: Identify the desired volume of the isopropyl solution, which is 10 liters.
+Step 2: Understand that the isopropyl solution is made up of 48% isopropyl alcohol and 52% water.
+Step 3: Let x represent the volume of the 15% solution needed to fulfill the order.
+Step 4: Calculate the volume of isopropyl alcohol in the 15% solution as 0.15x liters.
+Step 5: Calculate the volume of isopropyl alcohol in the 70% solution as 0.70(10 - x) liters.
+Step 6: Set up an equation to represent the total volume of isopropyl alcohol in the final solution: 0.15x + 0.70(10 - x) = 0.48(10).
+Step 7: Solve the equation for x to find the volume of the 15% solution needed.
+Step 8: The volume of the 15% solution needed to fulfill the order is x liters.",4
+"Charlie has in his coin jar a certain number of quarters and nickels. There are 77 coins in the jar, and together they are worth $6.05. Find how many quarters are in the jar.","Step 1: Let's assume the number of quarters in the jar is q.
+Step 2: Since there are 77 coins in total, the number of nickels can be calculated as 77 - q.
+Step 3: The value of q quarters is 0.25q dollars.
+Step 4: The value of (77 - q) nickels is 0.05(77 - q) dollars.
+Step 5: The total value of the coins is $6.05, so we can set up the equation 0.25q + 0.05(77 - q) = 6.05.
+Step 6: Simplify the equation: 0.25q + 3.85 - 0.05q = 6.05.
+Step 7: Combine like terms: 0.20q + 3.85 = 6.05.
+Step 8: Subtract 3.85 from both sides: 0.20q = 2.20.
+Step 9: Divide both sides by 0.20: q = 11.
+Step 10: Therefore, there are 11 quarters in the jar.",11
+A collection of dimes and quarters is worth $15.25. There are 103 coins in all. How many of dimes are there?,"Solution:
+Step 1: Let's assume the number of dimes as ""x"".
+Step 2: Since there are 103 coins in total, the number of quarters can be calculated as 103 - x.
+Step 3: The value of x dimes is 10x cents, and the value of (103 - x) quarters is 25(103 - x) cents.
+Step 4: The total value of the collection is $15.25, which is equal to 1525 cents.
+Step 5: Set up the equation: 10x + 25(103 - x) = 1525.
+Step 6: Simplify the equation: 10x + 2575 - 25x = 1525.
+Step 7: Combine like terms: -15x + 2575 = 1525.
+Step 8: Subtract 2575 from both sides: -15x = -1050.
+Step 9: Divide both sides by -15: x = 70.
+Step 10: Therefore, there are 70 dimes in the collection.",70
+There were 429 people at a play. Admission was $1 each for adults and 75 cents each for children. The receipts were $372.50. How many children attended?,"Step 1: Let's assume the number of adults attending the play is ""x"" and the number of children attending is ""y"".
+Step 2: We know that the admission fee for adults is $1 each, so the total amount collected from adults is x * $1 = $x.
+Step 3: Similarly, the admission fee for children is 75 cents each, so the total amount collected from children is y * $0.75 = $0.75y.
+Step 4: The total number of people attending the play is given as 429, so we have the equation x + y = 429.
+Step 5: The total amount collected from both adults and children is given as $372.50, so we have the equation $x + $0.75y = $372.50.
+Step 6: We can solve the system of equations formed by equations (4) and (5) to find the values of x and y.
+Step 7: Multiply equation (4) by 0.75 to eliminate the decimals, giving us 0.75x + 0.75y = 321.75.
+Step 8: Subtract equation (7) from equation (6) to eliminate y, giving us $x - 0.75x = $372.50 - $321.75.
+Step 9: Simplify equation (8), giving us 0.25x = $50.75.
+Step 10: Divide both sides of equation (9) by 0.25 to solve for x, giving us x = $50.75 / 0.25.
+Step 11: Calculate the value of x, giving us x = 203.
+Step 12: Substitute the value of x into equation (4) to solve for y, giving us 203 + y = 429.
+Step 13: Subtract 203 from both sides of equation (12), giving us y = 429 - 203.
+Step 14: Calculate the value of y, giving us y = 226.
+Step 15: Therefore, the number of children attending the play is 226.",226
+"A total of $27000 is invested, part of it at 12% and the rest at 13%. The total interest after one year is $3385. How much was invested at 12%?","Step 1: Let's assume the amount invested at 12% is x dollars.
+Step 2: The amount invested at 13% would be (27000 - x) dollars.
+Step 3: Calculate the interest earned from the amount invested at 12%: 0.12x dollars.
+Step 4: Calculate the interest earned from the amount invested at 13%: 0.13(27000 - x) dollars.
+Step 5: The total interest earned is the sum of the interest earned from both investments: 0.12x + 0.13(27000 - x) dollars.
+Step 6: Set up the equation: 0.12x + 0.13(27000 - x) = 3385.
+Step 7: Solve the equation for x to find the amount invested at 12%.",12500
+A coin bank contains nickels and dimes. The number of dimes is 10 less than twice the number of nickels. The total value of all the coins is $2.75. Find the number of nicklels in the bank.,"Solution:
+Step 1: Let's assume the number of nickels in the bank is ""x"".
+Step 2: According to the problem, the number of dimes is 10 less than twice the number of nickels. So, the number of dimes can be represented as 2x - 10.
+Step 3: The value of each nickel is $0.05, and the value of each dime is $0.10. Therefore, the total value of all the coins can be calculated as 0.05x + 0.10(2x - 10) = 2.75.
+Step 4: Simplify the equation: 0.05x + 0.20x - 1 = 2.75.
+Step 5: Combine like terms: 0.25x - 1 = 2.75.
+Step 6: Add 1 to both sides of the equation: 0.25x = 3.75.
+Step 7: Divide both sides of the equation by 0.25: x = 15.
+Step 8: The number of nickels in the bank is 15.",15
+"A total of $9000 is invested, part of it at 10% and the rest at 12%. The total interest after one year is $1030. How much was invested at 10%?","Step 1: Let x be the amount invested at 10%.
+Step 2: The amount invested at 12% is $9000 - x.
+Step 3: Calculate the interest earned from the amount invested at 10%: 0.10x.
+Step 4: Calculate the interest earned from the amount invested at 12%: 0.12($9000 - x).
+Step 5: The total interest earned is $1030, so we have the equation 0.10x + 0.12($9000 - x) = $1030.
+Step 6: Simplify the equation: 0.10x + 0.12($9000) - 0.12x = $1030.
+Step 7: Distribute 0.12 to $9000: 0.10x + $1080 - 0.12x = $1030.
+Step 8: Combine like terms: -0.02x + $1080 = $1030.
+Step 9: Subtract $1080 from both sides: -0.02x = $1030 - $1080.
+Step 10: Simplify: -0.02x = -$50.
+Step 11: Divide both sides by -0.02: x = -$50 / -0.02.
+Step 12: Simplify: x = $2500.
+
+Therefore, $2500 was invested at 10%.",2500
+"At a coin-operated laundromat, using the washer 6 times and then the dryer 6 times costs $13.50, while using the washer 4 times and then the dryer 8 times costs $12. Find the cost of one wash.","Step 1: Let's assume the cost of one wash is represented by the variable ""x"".
+Step 2: Using the washer 6 times and then the dryer 6 times costs $13.50, so the cost of using the washer 6 times is 6x and the cost of using the dryer 6 times is also 6x.
+Step 3: Using the washer 4 times and then the dryer 8 times costs $12, so the cost of using the washer 4 times is 4x and the cost of using the dryer 8 times is 8x.
+Step 4: We can set up the equation 6x + 6x = 13.50 to represent the cost of using the washer and dryer 6 times each.
+Step 5: Simplifying the equation, we get 12x = 13.50.
+Step 6: Dividing both sides of the equation by 12, we find that x = 1.125.
+Step 7: Therefore, the cost of one wash is $1.125.",1.5
+A tea that is 20% jasmine is blended with a tea that is 15% jasmine. How many pounds of 20% jasmine tea are needed to make 5 lb of tea that is 18% jasmine?,"Step 1: Identify the percentage of jasmine in the 20% jasmine tea, which is 20%.
+Step 2: Identify the percentage of jasmine in the 15% jasmine tea, which is 15%.
+Step 3: Let x represent the number of pounds of 20% jasmine tea needed.
+Step 4: Calculate the amount of jasmine in the 20% jasmine tea, which is 0.20x pounds.
+Step 5: Calculate the amount of jasmine in the 15% jasmine tea, which is 0.15(5 - x) pounds.
+Step 6: Calculate the total amount of jasmine in the 5 lb tea that is 18% jasmine, which is 0.18(5) pounds.
+Step 7: Set up the equation: 0.20x + 0.15(5 - x) = 0.18(5).
+Step 8: Solve the equation: 0.20x + 0.75 - 0.15x = 0.90.
+Step 9: Combine like terms: 0.05x + 0.75 = 0.90.
+Step 10: Subtract 0.75 from both sides: 0.05x = 0.15.
+Step 11: Divide both sides by 0.05: x = 3.
+Step 12: The number of pounds of 20% jasmine tea needed is 3 pounds.",3
+"A party with 3 adults and 2 children pays 45 dollars for their tickets at Acme Theater. Another party, with 4 adults and 4 children, pays 68 dollars. Find the price of one adult ticket.","Step 1: Let's assume the price of one adult ticket is ""x"" dollars.
+Step 2: The total cost for the first party with 3 adults and 2 children is 3x (for adults) + 2 (for children) = 3x + 2 dollars.
+Step 3: The total cost for the second party with 4 adults and 4 children is 4x (for adults) + 4 (for children) = 4x + 4 dollars.
+Step 4: According to the problem, the first party paid 45 dollars and the second party paid 68 dollars.
+Step 5: Set up the equation: 3x + 2 = 45 and 4x + 4 = 68.
+Step 6: Solve the first equation: 3x = 45 - 2 = 43, then x = 43 / 3 = 14.33 (rounded to two decimal places).
+Step 7: Solve the second equation: 4x = 68 - 4 = 64, then x = 64 / 4 = 16.
+Step 8: Since the price of one adult ticket cannot be negative, we discard the solution x = 14.33.
+Step 9: Therefore, the price of one adult ticket is 16 dollars.",11
+"Every Monday Helen shares coffee and donuts with the office where she works. One week Helen buys 4 cups of coffee and 6 donuts, and pays 18 dollars. The next week Helen buys 6 cups of coffee and 12 donuts, and pays 30 dollars. Find the price of one cup of coffee.","Step 1: Let's assume the price of one cup of coffee is ""x"" dollars.
+Step 2: According to the given information, Helen buys 4 cups of coffee and 6 donuts, and pays 18 dollars. So, the cost of 4 cups of coffee would be 4x dollars.
+Step 3: Similarly, in the next week, Helen buys 6 cups of coffee and 12 donuts, and pays 30 dollars. So, the cost of 6 cups of coffee would be 6x dollars.
+Step 4: We can set up the following equation based on the given information: 4x + 6 = 18 and 6x + 12 = 30.
+Step 5: Solve the first equation: 4x + 6 = 18
+    - Subtract 6 from both sides: 4x = 12
+    - Divide both sides by 4: x = 3
+Step 6: Solve the second equation: 6x + 12 = 30
+    - Subtract 12 from both sides: 6x = 18
+    - Divide both sides by 6: x = 3
+Step 7: The price of one cup of coffee is 3 dollars.",3
+Ivan¡¯s math class has 1.2 times more students than Ivan¡¯s statistics class. Find how many people are enrolled in the statistics class has if the math class has 30 students.,"Step 1: Let's assume the number of students in Ivan's statistics class is x.
+Step 2: According to the problem, Ivan's math class has 1.2 times more students than his statistics class. So, the number of students in the math class is 1.2 * x.
+Step 3: Given that the math class has 30 students, we can set up the equation 1.2 * x = 30.
+Step 4: To solve for x, divide both sides of the equation by 1.2: x = 30 / 1.2.
+Step 5: Simplifying the equation, we find that x = 25.
+Step 6: Therefore, there are 25 students enrolled in Ivan's statistics class.",25
+"Bart, Millhouse, and Martin Prince saved up 149 dollars for a collectible comic book. Find how much money Bart saved up if Bart contributed 3 times less than Millhouse, and Martin contributed 9 dollars more than Millhouse.","Step 1: Let's assume that Millhouse saved up x dollars.
+Step 2: According to the problem, Bart contributed 3 times less than Millhouse, so Bart saved up (1/3)x dollars.
+Step 3: Martin contributed 9 dollars more than Millhouse, so Martin saved up x + 9 dollars.
+Step 4: The total amount of money saved up is the sum of the amounts saved by Bart, Millhouse, and Martin, which is (1/3)x + x + (x + 9) = 149 dollars.
+Step 5: Simplify the equation: (1/3)x + x + x + 9 = 149.
+Step 6: Combine like terms: (7/3)x + 9 = 149.
+Step 7: Subtract 9 from both sides of the equation: (7/3)x = 140.
+Step 8: Multiply both sides of the equation by 3/7 to isolate x: x = (140 * 3)/7.
+Step 9: Simplify the expression: x = 60.
+Step 10: Therefore, Bart saved up 60 dollars.",20
+A quantity increased by 14% and is now 171. Find the quantity before the increase.,"Step 1: Let's assume the quantity before the increase is represented by the variable ""x"".
+Step 2: The quantity increased by 14% can be calculated by multiplying x by 1.14 (1 + 14% = 1.14).
+Step 3: The new quantity after the increase is 171, so we can set up the equation: x * 1.14 = 171.
+Step 4: To find the quantity before the increase, we need to isolate x. Divide both sides of the equation by 1.14: x = 171 / 1.14.
+Step 5: Simplify the right side of the equation: x ¡Ö 150.
+Step 6: Therefore, the quantity before the increase is approximately 150.",150
+A quantity decreased from 140 to 133. Find the percent decrease.,"Step 1: Identify the initial quantity, which is 140.
+Step 2: Identify the final quantity, which is 133.
+Step 3: Calculate the decrease in quantity by subtracting the final quantity from the initial quantity: 140 - 133 = 7.
+Step 4: Calculate the percent decrease by dividing the decrease in quantity by the initial quantity and multiplying by 100: (7/140) * 100 = 5%. 
+Step 5: The percent decrease is 5%.",5
+"John paid 24% income tax on the total income of $28,000. Find how much money John has made after tax.","Step 1: Identify the total income earned by John, which is $28,000.
+Step 2: Understand that John paid 24% income tax on his total income.
+Step 3: Calculate the amount of income tax paid by multiplying the total income by the tax rate: $28,000 * 0.24 = $6,720.
+Step 4: Subtract the income tax paid from the total income to find the amount of money John has made after tax: $28,000 - $6,720 = $21,280.
+Step 5: Therefore, John has made $21,280 after tax.",21280
+"A contractor buys a residential property, renovates it, and then sells (flips) it with 25% markup. If the the sale price is $160, 000, find how much the contractor has paid for the property.","Step 1: Let's assume the cost of the property is x dollars.
+Step 2: The contractor adds a 25% markup to the cost of the property, which is 0.25x dollars.
+Step 3: The selling price of the property is the cost of the property plus the markup, which is x + 0.25x = 1.25x dollars.
+Step 4: We are given that the selling price is $160,000, so we can set up the equation 1.25x = 160,000.
+Step 5: To solve for x, divide both sides of the equation by 1.25: x = 160,000 / 1.25.
+Step 6: Simplifying the right side of the equation, x = 128,000.
+Step 7: Therefore, the contractor has paid $128,000 for the property.",128000
+"Shannon¡¯s business serves 14 clients per day on average. Find the time needed to serve 518 clients, in days.","Step 1: Identify the average number of clients served per day, which is 14 clients.
+Step 2: Understand that the problem is asking for the time needed to serve 518 clients.
+Step 3: Divide the total number of clients (518) by the average number of clients served per day (14) to find the number of days needed.
+Step 4: Perform the division: 518 clients ¡Â 14 clients/day = 37 days.
+Step 5: The time needed to serve 518 clients is 37 days.",37
+"Two cars, a Lotus and a Renault, are 635 kilometers apart. They start at the same time and drive toward each other. The Lotus travels at a rate of 70 kilometers per hour and the Renault travels at 57 kilometers per hour. In how many hours will the two cars meet?","Step 1: Identify the distance between the two cars, which is 635 kilometers.
+Step 2: Determine the rate at which the Lotus is traveling, which is 70 kilometers per hour.
+Step 3: Determine the rate at which the Renault is traveling, which is 57 kilometers per hour.
+Step 4: Understand that the two cars are moving towards each other, so their combined rate is the sum of their individual rates.
+Step 5: Add the rates of the Lotus and the Renault to find the combined rate: 70 km/h + 57 km/h = 127 km/h.
+Step 6: Use the formula distance = rate ¡Á time to find the time it takes for the two cars to meet.
+Step 7: Substitute the values into the formula: 635 km = 127 km/h ¡Á time.
+Step 8: Solve for time by dividing both sides of the equation by 127 km/h: time = 635 km / 127 km/h.
+Step 9: Simplify the expression: time = 5 hours.
+Step 10: The two cars will meet in 5 hours.",5
+"Jane¡¯s monthly car loan payment is one quarter of her monthly house loan payment. Find her monthly car loan payment rate, in dollars per month, if Jane pays 19200 dollars in total over the course of the year.","Step 1: Let's assume the monthly car loan payment rate as ""x"" dollars per month.
+Step 2: Since Jane's monthly car loan payment is one quarter of her monthly house loan payment, her monthly house loan payment rate would be 4 times the car loan payment rate, which is 4x dollars per month.
+Step 3: To find the total amount paid over the course of the year, we multiply the monthly payment rate by 12 (months in a year). So, the total car loan payment for the year would be 12x dollars.
+Step 4: According to the problem, Jane pays a total of 19200 dollars over the course of the year. Therefore, we can set up the equation 12x = 19200.
+Step 5: To solve for x, divide both sides of the equation by 12: x = 19200 / 12.
+Step 6: Simplifying the equation, we find that x = 1600.
+Step 7: Therefore, Jane's monthly car loan payment rate is 1600 dollars per month.",320
+"In the morning, the temperature in Urbana, Illinois was 11 degrees. By mid-afternoon, the temperature had dropped to ?9 degrees. What was the difference of the morning and afternoon temperatures?","Solution:
+Step 1: Identify the morning temperature, which is 11 degrees.
+Step 2: Identify the afternoon temperature, which is -9 degrees.
+Step 3: Calculate the difference between the morning and afternoon temperatures by subtracting the afternoon temperature from the morning temperature: 11 degrees - (-9 degrees).
+Step 4: Simplify the subtraction: 11 degrees + 9 degrees.
+Step 5: Perform the addition: 20 degrees.
+Step 6: The difference between the morning and afternoon temperatures is 20 degrees.",20
+The Mustangs football team received three penalties in the third quarter. Each penalty gave them a loss of fifteen yards. What is the number of yards lost?,"Solution:
+Step 1: Identify the number of penalties received by the Mustangs football team in the third quarter, which is three penalties.
+Step 2: Understand that each penalty results in a loss of fifteen yards.
+Step 3: Multiply the number of penalties (3) by the loss of yards per penalty (15 yards) to find the total yards lost.
+Step 4: The total number of yards lost is 3 penalties * 15 yards/penalty = 45 yards.",45
+"On January  15, the high temperature in Anaheim, California, was  84¡ã. That same day, the high temperature in Embarrass, Minnesota was  ?12¡ã. What was the difference between the temperature in Anaheim and the temperature in Embarrass?","Solution:
+Step 1: Identify the high temperature in Anaheim, California, which is 84¡ã.
+Step 2: Identify the high temperature in Embarrass, Minnesota, which is -12¡ã.
+Step 3: Calculate the difference between the temperatures by subtracting the temperature in Embarrass from the temperature in Anaheim: 84¡ã - (-12¡ã).
+Step 4: Simplify the subtraction: 84¡ã + 12¡ã.
+Step 5: Add the temperatures: 84¡ã + 12¡ã = 96¡ã.
+Step 6: The difference between the temperature in Anaheim and the temperature in Embarrass is 96¡ã.",96
+"On the first down, the Chargers had the ball on their 25-yard line. They lost 6 yards on the first-down play, gained 10 yards on the second-down play, and lost 8 yards on the third-down play. What was the yard line at the end of the third-down play?","Solution:
+Step 1: Start with the Chargers having the ball on their 25-yard line.
+Step 2: On the first-down play, they lost 6 yards. Subtract 6 from the starting yard line to find the new yard line.
+Step 3: On the second-down play, they gained 10 yards. Add 10 to the new yard line from step 2 to find the updated yard line.
+Step 4: On the third-down play, they lost 8 yards. Subtract 8 from the updated yard line in step 3 to find the final yard line at the end of the third-down play.",21
+Mayra has $124 in her checking account. She writes a check for $152. What is the new balance in her checking account?,"Step 1: Identify the initial balance in Mayra's checking account, which is $124.
+Step 2: Understand that Mayra writes a check for $152.
+Step 3: Subtract the amount of the check ($152) from the initial balance ($124).
+Step 4: The new balance in Mayra's checking account is $124 - $152 = -$28.",-28
+Diontre has a balance of ?$38 in his checking account. He deposits $225 to the account. What is the new balance?,"Step 1: Identify the initial balance in Diontre's checking account, which is -$38.
+Step 2: Understand that Diontre deposits $225 into the account.
+Step 3: Add the deposit of $225 to the initial balance of -$38.
+Step 4: The new balance in Diontre's checking account is -$38 + $225 = $187.",187
+"Javier owns 300 shares of stock in one company. On Tuesday, the stock price dropped $12 per share. What was the total effect on Javier¡¯s portfolio?","Step 1: Identify the number of shares Javier owns, which is 300 shares.
+Step 2: Understand that the stock price dropped $12 per share.
+Step 3: Calculate the total effect on Javier's portfolio by multiplying the number of shares by the drop in stock price: 300 shares * $12 = $3600.
+Step 4: The total effect on Javier's portfolio is a decrease of $3600.",-3600
+Don purchased a bulk package of candy that weighs 5 pounds. He wants to sell the candy in little bags that hold 14 pound. How many little bags of candy can he fill from the bulk package?,"Step 1: Identify the weight of the bulk package of candy, which is 5 pounds.
+Step 2: Determine the weight of each little bag of candy, which is 14 pounds.
+Step 3: Divide the weight of the bulk package (5 pounds) by the weight of each little bag (14 pounds) to find the number of little bags that can be filled.
+Step 4: Perform the division: 5 pounds ¡Â 14 pounds = 0.3571 (rounded to four decimal places).
+Step 5: Since we cannot have a fraction of a bag, round down the result to the nearest whole number.
+Step 6: The number of little bags of candy that can be filled from the bulk package is 0 (rounded down to the nearest whole number).",20
+"Field trip All the 5th graders at Lincoln Elementary School will go on a field trip to the science museum. Counting all the children, teachers, and chaperones, there will be 147 people. Each bus holds 44 people. How many busses will be needed?","Step 1: Count the total number of people going on the field trip, including children, teachers, and chaperones, which is 147 people.
+Step 2: Determine the capacity of each bus, which is 44 people.
+Step 3: Divide the total number of people by the capacity of each bus to find the number of buses needed. 
+Step 4: Divide 147 people by 44 people per bus to get the number of buses needed. 
+Step 5: The number of buses needed is the quotient of 147 divided by 44.",4
+Julian drinks one can of soda every day. Each can of soda contains 40 grams of sugar. How many kilograms of sugar does Julian get from soda in 1 year?,"Solution:
+Step 1: Identify the amount of sugar in one can of soda, which is 40 grams.
+Step 2: Understand that Julian drinks one can of soda every day.
+Step 3: Calculate the amount of sugar Julian gets from soda in one day by multiplying the amount of sugar in one can (40 grams) by the number of cans Julian drinks in one day (1 can).
+Step 4: Calculate the amount of sugar Julian gets from soda in one year by multiplying the amount of sugar Julian gets in one day by the number of days in a year (365 days).
+Step 5: Convert the total amount of sugar from grams to kilograms by dividing the result from step 4 by 1000 (since there are 1000 grams in a kilogram).
+Step 6: The total amount of sugar Julian gets from soda in 1 year is the result from step 5.",14.6
+"The high temperature one day in Miami Beach, Florida, was 76¡ã . That same day, the high temperature in Buffalo, New York was ?8¡ã . What was the difference between the temperature in Miami Beach and the temperature in Buffalo?","Step 1: Identify the high temperature in Miami Beach, Florida, which is 76¡ã.
+Step 2: Identify the high temperature in Buffalo, New York, which is -8¡ã.
+Step 3: Calculate the difference between the temperatures by subtracting the temperature in Buffalo from the temperature in Miami Beach: 76¡ã - (-8¡ã).
+Step 4: Simplify the subtraction: 76¡ã + 8¡ã.
+Step 5: Add the temperatures: 76¡ã + 8¡ã = 84¡ã.
+Step 6: The difference between the temperature in Miami Beach and the temperature in Buffalo is 84¡ã.",84
+"The MacIntyre family recycled newspapers for two months. The two months of newspapers weighed a total of 57 pounds. The second month, the newspapers weighed 28 pounds. How much did the newspapers weigh the first month?","Solution:
+Step 1: Let's assume the weight of newspapers in the first month as ""x"" pounds.
+Step 2: We know that the total weight of newspapers for two months is 57 pounds.
+Step 3: So, the equation representing the given information is x + 28 = 57.
+Step 4: To find the weight of newspapers in the first month, we need to solve the equation for x.
+Step 5: Subtract 28 from both sides of the equation: x = 57 - 28.
+Step 6: Simplify the right side of the equation: x = 29.
+Step 7: Therefore, the newspapers weighed 29 pounds in the first month.",29
+"Randell paid $28,675 for his new car. This was $875 less than the sticker price. What was the sticker price of the car?","Step 1: Let's assume the sticker price of the car is represented by the variable ""x"".
+Step 2: According to the problem, Randell paid $875 less than the sticker price, so we can write the equation: x - $875 = $28,675.
+Step 3: To find the sticker price, we need to isolate the variable ""x"". Add $875 to both sides of the equation: x - $875 + $875 = $28,675 + $875.
+Step 4: Simplify the equation: x = $29,550.
+Step 5: Therefore, the sticker price of the car was $29,550.",29550
+"Avril rode her bike a total of 18 miles, from home to the library and then to the beach. The distance from Avril¡¯s house to the library is 7 miles. What is the distance from the library to the beach, in miles?","Solution:
+Step 1: Identify the total distance Avril rode, which is 18 miles.
+Step 2: Determine the distance from Avril's house to the library, which is 7 miles.
+Step 3: Subtract the distance from Avril's house to the library from the total distance to find the distance from the library to the beach.
+Step 4: The distance from the library to the beach is 18 miles - 7 miles = 11 miles.",11
+Eva¡¯s daughter is 15 years younger than her son. Eva¡¯s son is 22 years old. How old is her daughter?,"Solution:
+Step 1: Identify the age of Eva's son, which is 22 years old.
+Step 2: Understand that Eva's daughter is 15 years younger than her son.
+Step 3: Subtract 15 years from the age of Eva's son to find the age of her daughter.
+Step 4: The age of Eva's daughter is 22 years - 15 years = 7 years.",7
+"For a family birthday dinner, Celeste bought a turkey that weighed 5 pounds less than the one she bought for Thanksgiving. The birthday turkey weighed 16 pounds. How much did the Thanksgiving turkey weigh, in pounds?","Step 1: Identify the weight of the birthday turkey, which is 16 pounds.
+Step 2: Understand that the birthday turkey weighs 5 pounds less than the Thanksgiving turkey.
+Step 3: Subtract the 5 pounds from the weight of the birthday turkey to find the weight of the Thanksgiving turkey.
+Step 4: The weight of the Thanksgiving turkey is 16 pounds + 5 pounds = 21 pounds.",21
+Connor¡¯s temperature was 0.7 degrees higher this morning than it had been last night. His temperature this morning was 101.2 degrees. What was his temperature last night?,"Solution:
+Step 1: Identify Connor's temperature this morning, which is 101.2 degrees.
+Step 2: Understand that his temperature this morning was 0.7 degrees higher than last night.
+Step 3: Subtract the additional 0.7 degrees from his temperature this morning to find his temperature last night.
+Step 4: Connor's temperature last night was 101.2 degrees - 0.7 degrees = 100.5 degrees.",100.5
+Ron¡¯s paycheck this week was $17.43 less than his paycheck last week. His paycheck this week was $103.76. How much was Ron¡¯s paycheck last week?,"Step 1: Identify the amount of Ron's paycheck this week, which is $103.76.
+Step 2: Understand that Ron's paycheck this week was $17.43 less than his paycheck last week.
+Step 3: Subtract the $17.43 from Ron's paycheck this week to find the amount of his paycheck last week.
+Step 4: Ron's paycheck last week was $103.76 + $17.43 = $121.19.",121.19
+Denae bought 6 pounds of grapes for $10.74. What was the cost of one pound of grapes?,"Solution:
+Step 1: Identify the total cost of the grapes, which is $10.74.
+Step 2: Determine the total weight of the grapes, which is 6 pounds.
+Step 3: Divide the total cost of the grapes by the total weight to find the cost per pound.
+Step 4: Calculate the cost per pound by dividing $10.74 by 6 pounds.
+Step 5: The cost of one pound of grapes is $10.74 ¡Â 6 = $1.79.",1.79
+"Andreas bought a used car for $12,000. Because the car was 4-years old, its price was 3/4 of the original price, when the car was new. What was the original price of the car?","Solution:
+Step 1: Let's assume the original price of the car is ""x"" dollars.
+Step 2: According to the problem, the car's price after 4 years is 3/4 of the original price, which can be represented as (3/4)x dollars.
+Step 3: We know that the car was bought for $12,000, so we can set up the equation (3/4)x = $12,000.
+Step 4: To solve for x, we need to isolate it on one side of the equation. Multiply both sides of the equation by (4/3) to cancel out the fraction: (4/3)(3/4)x = (4/3)($12,000).
+Step 5: Simplifying, we get x = (4/3)($12,000).
+Step 6: Multiply (4/3) by $12,000 to find the original price of the car.
+Step 7: The original price of the car is x = $16,000.",16000
+Ramona bought 18 balloons for a party. She wants to make 3 equal bunches. How many balloons did she use in each bunch?,"Solution:
+Step 1: Identify the total number of balloons Ramona bought, which is 18.
+Step 2: Understand that Ramona wants to make 3 equal bunches.
+Step 3: Divide the total number of balloons by the number of bunches to find the number of balloons in each bunch. 
+Step 4: Divide 18 balloons by 3 bunches to get 6 balloons in each bunch.",6
+Serena paid $12.96 for a pack of 12 pairs of sport socks. What was the price of pair of sport socks?,"Solution:
+Step 1: Identify the total cost of the pack of 12 pairs of sport socks, which is $12.96.
+Step 2: Understand that the pack contains 12 pairs of sport socks.
+Step 3: Divide the total cost of $12.96 by the number of pairs in the pack, which is 12.
+Step 4: The price of each pair of sport socks is $12.96 ¡Â 12 = $1.08.",1.08
+John¡¯s SUV gets 18 miles per gallon (mpg). This is half as many mpg as his wife¡¯s hybrid car. How many miles per gallon does the hybrid car get?,"Step 1: Identify the number of miles per gallon (mpg) that John's SUV gets, which is 18 mpg.
+Step 2: Understand that John's SUV gets half as many mpg as his wife's hybrid car.
+Step 3: Divide the number of mpg of John's SUV by 2 to find the number of mpg of his wife's hybrid car.
+Step 4: The hybrid car gets 18 mpg / 2 = 9 mpg.",36
+"Bea earned $11,700 commission for selling a house, calculated as 6/100 selling price. What was the selling price of the house?","Step 1: Let's assume the selling price of the house is ""x"" dollars.
+Step 2: According to the given information, Bea earned a commission of 6/100 (or 0.06) of the selling price.
+Step 3: Calculate the commission earned by multiplying the selling price by the commission rate: 0.06 * x = 11,700.
+Step 4: Solve the equation for x by dividing both sides by 0.06: x = 11,700 / 0.06.
+Step 5: Simplify the right side of the equation: x = 195,000.
+Step 6: Therefore, the selling price of the house was $195,000.",195000
+"Rey is planning to drive from his house in San Diego to visit his grandmother in Sacramento, a distance of 520 miles. If he can drive at a steady rate of 65 miles per hour, how many hours will the trip take?","Step 1: Identify the distance Rey needs to travel, which is 520 miles.
+Step 2: Determine the rate at which Rey can drive, which is 65 miles per hour.
+Step 3: Divide the distance by the rate to find the time it will take for the trip. 520 miles ¡Â 65 miles per hour = 8 hours.
+Step 4: The trip will take 8 hours.",8
+"Megan is taking the bus from New York City to Montreal. The distance is 380 miles and the bus travels at a steady rate of 76 miles per hour. How long will the bus ride be, in hours?","Step 1: Identify the distance of the bus ride, which is 380 miles.
+Step 2: Determine the speed of the bus, which is 76 miles per hour.
+Step 3: Divide the distance of the bus ride by the speed of the bus to find the time it will take. 380 miles ¡Â 76 miles per hour = 5 hours.
+Step 4: The bus ride will be 5 hours long.",5
+"Kareem wants to ride his bike from St. Louis to Champaign, Illinois. The distance is 180 miles. If he rides at a steady rate of 16 miles per hour, how many hours will the trip take?","Step 1: Identify the distance of the trip, which is 180 miles.
+Step 2: Understand that Kareem rides at a steady rate of 16 miles per hour.
+Step 3: Divide the distance of 180 miles by the rate of 16 miles per hour.
+Step 4: The trip will take 180 miles / 16 miles per hour = 11.25 hours.",11.25
+"Alejandra is driving to Cincinnati, 450 miles away. If she wants to be there in 6 hours, at what rate does she need to drive, in miles per hour?","Step 1: Identify the distance Alejandra needs to travel, which is 450 miles.
+Step 2: Determine the time she wants to reach her destination, which is 6 hours.
+Step 3: Divide the distance by the time to find the required rate of driving: 450 miles / 6 hours = 75 miles per hour.
+Step 4: Alejandra needs to drive at a rate of 75 miles per hour to reach Cincinnati in 6 hours.",75
+"Philip got a ride with a friend from Denver to Las Vegas, a distance of 750 miles. If the trip took 10 hours, how fast was the friend driving, in miles per hour?","Step 1: Identify the distance of the trip, which is 750 miles.
+Step 2: Determine the time it took for the trip, which is 10 hours.
+Step 3: Use the formula speed = distance / time to calculate the friend's driving speed.
+Step 4: Substitute the values into the formula: speed = 750 miles / 10 hours.
+Step 5: Simplify the expression: speed = 75 miles per hour.
+Step 6: The friend was driving at a speed of 75 miles per hour.",75
+Tan weighs 146 pounds. Minh weighs 15 pounds more than Tan. How much does Minh weigh?,"Solution:
+Step 1: Identify Tan's weight, which is 146 pounds.
+Step 2: Understand that Minh weighs 15 pounds more than Tan.
+Step 3: Add the additional 15 pounds to Tan's weight.
+Step 4: The total weight of Minh is 146 pounds + 15 pounds = 161 pounds.",161
+"Elissa earned $152.84 this week, which was $21.65 more than she earned last week. How much did she earn last week?","Step 1: Identify the amount of money Elissa earned this week, which is $152.84.
+Step 2: Understand that this week's earnings were $21.65 more than last week's earnings.
+Step 3: Subtract the additional $21.65 from this week's earnings to find out how much Elissa earned last week.
+Step 4: The amount Elissa earned last week is $152.84 - $21.65 = $131.19.",131.19
+Janet gets paid $24 per hour. She heard that this is 3/4 of what Adam is paid. How much is Adam paid per hour?,"Solution:
+Step 1: Let's assume Adam's hourly wage as ""x"" dollars.
+Step 2: According to the problem, Janet gets paid $24 per hour, which is 3/4 of what Adam is paid. So, we can write the equation: 24 = (3/4) * x.
+Step 3: To solve for x, we need to isolate it on one side of the equation. Multiply both sides of the equation by 4/3: (4/3) * 24 = (4/3) * (3/4) * x.
+Step 4: Simplify the equation: 32 = x.
+Step 5: Therefore, Adam is paid $32 per hour.",32
+"Two-thirds of the children in the fourth-grade class are girls. If there are 20 girls, what is the total number of children in the class?","Step 1: Identify the number of girls in the fourth-grade class, which is 20.
+Step 2: Understand that two-thirds of the children in the class are girls.
+Step 3: Determine the total number of children in the class by finding the number that represents two-thirds of the class.
+Step 4: To find two-thirds of the class, multiply the number of girls (20) by 3/2.
+Step 5: Calculate 20 * (3/2) = 30.
+Step 6: The total number of children in the fourth-grade class is 30.",30
+"Zachary has 25 country music CDs, which is one-fifth of his CD collection. How many CDs does Zachary have?","Solution:
+Step 1: Identify the number of country music CDs in Zachary's collection, which is 25.
+Step 2: Understand that the country music CDs make up one-fifth of Zachary's CD collection.
+Step 3: Determine the total number of CDs in Zachary's collection by multiplying the number of country music CDs by 5.
+Step 4: The total number of CDs Zachary has is 25 CDs * 5 = 125 CDs.",125
+There are 16 girls in a school club. The number of girls is four more than twice the number of boys. Find the number of boys.,"Step 1: Let's assume the number of boys in the school club is ""x"".
+Step 2: According to the problem, the number of girls is four more than twice the number of boys, so the number of girls can be represented as 2x + 4.
+Step 3: We know that the total number of girls and boys in the club is 16, so we can set up the equation: x + (2x + 4) = 16.
+Step 4: Simplify the equation: 3x + 4 = 16.
+Step 5: Subtract 4 from both sides of the equation: 3x = 12.
+Step 6: Divide both sides of the equation by 3: x = 4.
+Step 7: Therefore, the number of boys in the school club is 4.",6
+Huong is organizing paperback and hardback books for her club¡¯s used book sale. The number of paperbacks is 12 less than three times the number of hardbacks. Huong had 162 paperbacks. How many hardback books were there?,"Step 1: Let's assume the number of hardback books as ""x"".
+Step 2: According to the problem, the number of paperbacks is 12 less than three times the number of hardbacks, so the number of paperbacks can be expressed as 3x - 12.
+Step 3: We are given that there are 162 paperbacks, so we can set up the equation 3x - 12 = 162.
+Step 4: To solve the equation, we can add 12 to both sides to isolate the term with ""x"": 3x = 174.
+Step 5: Divide both sides of the equation by 3 to solve for ""x"": x = 58.
+Step 6: Therefore, there were 58 hardback books.",58
+"Philip pays $1,620 in rent every month. This amount is $120 more than twice what his brother Paul pays for rent. How much does Paul pay for rent?","Step 1: Let's assume the amount of rent Paul pays as ""x"" dollars.
+Step 2: According to the problem, Philip pays $120 more than twice what Paul pays for rent. So, Philip pays 2x + $120 dollars for rent.
+Step 3: We know that Philip pays $1,620 in rent every month. Therefore, we can set up the equation 2x + $120 = $1,620.
+Step 4: To solve the equation, we need to isolate the variable. Subtract $120 from both sides of the equation: 2x = $1,620 - $120.
+Step 5: Simplify the right side of the equation: 2x = $1,500.
+Step 6: Divide both sides of the equation by 2 to solve for x: x = $1,500 / 2.
+Step 7: Calculate the value of x: x = $750.
+Step 8: Therefore, Paul pays $750 for rent.",750
+"Laurie has $46,000 invested in stocks and bonds. The amount invested in stocks is $8,000 less than three times the amount invested in bonds. How much does Laurie have invested in bonds?","Step 1: Let's assume the amount invested in bonds is ""x"" dollars.
+Step 2: According to the problem, the amount invested in stocks is $8,000 less than three times the amount invested in bonds. So, the amount invested in stocks is (3x - $8,000) dollars.
+Step 3: The total amount invested in stocks and bonds is $46,000. Therefore, we can write the equation: x + (3x - $8,000) = $46,000.
+Step 4: Simplify the equation: 4x - $8,000 = $46,000.
+Step 5: Add $8,000 to both sides of the equation: 4x = $54,000.
+Step 6: Divide both sides of the equation by 4: x = $13,500.
+Step 7: Therefore, Laurie has $13,500 invested in bonds.",13500
+The sum of a number and eight is 12. Find the number.,"Step 1: Let's represent the unknown number as ""x"".
+Step 2: Translate the given information into an equation: x + 8 = 12.
+Step 3: Subtract 8 from both sides of the equation to isolate the variable: x = 12 - 8.
+Step 4: Simplify the right side of the equation: x = 4.
+Step 5: Therefore, the number is 4.",4
+The sum of three times a number and eight is 23. Find the number.,"Step 1: Let's assume the number as 'x'.
+Step 2: Write the equation based on the given information: 3x + 8 = 23.
+Step 3: Subtract 8 from both sides of the equation: 3x = 23 - 8.
+Step 4: Simplify the right side of the equation: 3x = 15.
+Step 5: Divide both sides of the equation by 3 to isolate the variable: x = 15/3.
+Step 6: Simplify the right side of the equation: x = 5.
+Step 7: Therefore, the number is 5.",5
+Three times the sum of a number and nine is 12. Find the number.,"Step 1: Let's assume the number as 'x'.
+Step 2: The sum of the number and nine is x + 9.
+Step 3: Three times the sum of the number and nine is 3(x + 9).
+Step 4: According to the problem, three times the sum of the number and nine is equal to 12, so we have the equation 3(x + 9) = 12.
+Step 5: Distribute the 3 to both terms inside the parentheses, giving us 3x + 27 = 12.
+Step 6: Subtract 27 from both sides of the equation to isolate the variable, resulting in 3x = 12 - 27.
+Step 7: Simplify the right side of the equation, giving us 3x = -15.
+Step 8: Divide both sides of the equation by 3 to solve for x, resulting in x = -15/3.
+Step 9: Simplify the right side of the equation, giving us x = -5.
+Step 10: Therefore, the number is -5.",-5
+Patty paid $35 for a purse on sale for $10 off the original price. What was the original price of the purse?,"Step 1: Identify the sale price of the purse, which is $35.
+Step 2: Understand that the sale price is $10 off the original price.
+Step 3: Subtract the discount of $10 from the sale price of $35.
+Step 4: The original price of the purse is $35 + $10 = $45.",45
+Minh spent $6.25 on five sticker books to give his nephews. Find the cost of each sticker book.,"Step 1: Identify the total amount of money spent by Minh, which is $6.25.
+Step 2: Determine the number of sticker books purchased by Minh, which is five.
+Step 3: Divide the total amount spent by the number of sticker books to find the cost of each sticker book. 
+Step 4: $6.25 ¡Â 5 = $1.25.
+Step 5: The cost of each sticker book is $1.25.",1.25
+"Tom paid $1,166.40 for a new refrigerator, including $86.40 tax. What was the price of the refrigerator?","Step 1: Identify the total amount paid by Tom for the new refrigerator, which is $1,166.40.
+Step 2: Understand that the total amount paid includes $86.40 in tax.
+Step 3: Subtract the tax amount from the total amount paid to find the price of the refrigerator.
+Step 4: The price of the refrigerator is $1,166.40 - $86.40 = $1,080.",1080
+"Dezohn and his girlfriend enjoyed a nice dinner at a restaurant and his bill was $68.50. He wants to leave an 18% tip. If the tip will be 18% of the total bill, how much tip should he leave?","Step 1: Identify the total bill amount, which is $68.50.
+Step 2: Understand that the tip percentage is 18% of the total bill.
+Step 3: Calculate the tip amount by multiplying the total bill by the tip percentage: $68.50 * 0.18 = $12.33.
+Step 4: Dezohn should leave a tip of $12.33.",12.33
+"The label on Masao¡¯s breakfast cereal said that one serving of cereal provides 85 milligrams (mg) of potassium, which is 2% of the recommended daily amount. What is the total recommended daily amount of potassium?","Step 1: Identify the amount of potassium provided by one serving of cereal, which is 85 milligrams (mg).
+Step 2: Understand that this amount is equivalent to 2% of the recommended daily amount of potassium.
+Step 3: Set up a proportion to find the total recommended daily amount of potassium.
+   Let x be the total recommended daily amount of potassium.
+   85 mg / x = 2% / 100%
+Step 4: Simplify the proportion by converting 2% to a decimal.
+   85 mg / x = 0.02
+Step 5: Cross multiply to solve for x.
+   85 mg * 100% = 0.02 * x
+   85 mg = 0.02x
+Step 6: Divide both sides of the equation by 0.02 to isolate x.
+   85 mg / 0.02 = x
+   4250 mg = x
+Step 7: The total recommended daily amount of potassium is 4250 milligrams.",4250
+"Mitzi received some gourmet brownies as a gift. The wrapper said each brownie was 480 calories, and had 240 calories of fat. What percent of the total calories in each brownie comes from fat?","Step 1: Identify the total number of calories in each brownie, which is 480 calories.
+Step 2: Determine the number of calories that come from fat in each brownie, which is 240 calories.
+Step 3: Divide the number of calories from fat by the total number of calories and multiply by 100 to find the percentage of calories that come from fat.
+Step 4: Calculate the percentage: (240 calories / 480 calories) * 100 = 50%. 
+Therefore, 50% of the total calories in each brownie comes from fat.",50
+The average price of a gallon of gas in one city in June 2014 was $3.71. The average price in that city in July was $3.64. Find the percent decrease.,"Step 1: Identify the average price of a gallon of gas in June 2014, which is $3.71.
+Step 2: Identify the average price of a gallon of gas in July, which is $3.64.
+Step 3: Calculate the decrease in price by subtracting the average price in July from the average price in June: $3.71 - $3.64 = $0.07.
+Step 4: Calculate the percent decrease by dividing the decrease in price by the average price in June and multiplying by 100: ($0.07 / $3.71) * 100 = 1.89%.
+Step 5: The percent decrease in the average price of a gallon of gas from June to July is 1.89%.",1.9
+Geneva treated her parents to dinner at their favorite restaurant. The bill was $74.25. Geneva wants to leave 16% of the total bill as a tip. How much should the tip be?,"Step 1: Identify the total bill amount, which is $74.25.
+Step 2: Determine the percentage of the total bill that Geneva wants to leave as a tip, which is 16%.
+Step 3: Calculate the tip amount by multiplying the total bill by the tip percentage: $74.25 * 0.16 = $11.88.
+Step 4: The tip amount should be $11.88.",11.88
+Trong has 12% of each paycheck automatically deposited to his savings account. His last paycheck was $2165. How much money was deposited to Trong¡¯s savings account?,"Step 1: Identify the percentage of Trong's paycheck that is automatically deposited to his savings account, which is 12%.
+Step 2: Understand that Trong's last paycheck was $2165.
+Step 3: Calculate the amount of money that is automatically deposited to Trong's savings account by multiplying his paycheck by the percentage: $2165 * 12%.
+Step 4: Convert the percentage to decimal form by dividing it by 100: 12% / 100 = 0.12.
+Step 5: Multiply Trong's paycheck by the decimal form of the percentage to find the amount deposited to his savings account: $2165 * 0.12.
+Step 6: Calculate the final answer: $259.80. Therefore, $259.80 was deposited to Trong's savings account.",259.8
+"One serving of oatmeal has eight grams of fiber, which is 33% of the recommended daily amount. What is the total recommended daily amount of fiber, in grams?","Step 1: Identify the amount of fiber in one serving of oatmeal, which is eight grams.
+Step 2: Understand that this amount represents 33% of the recommended daily amount of fiber.
+Step 3: Divide the amount of fiber in one serving of oatmeal (eight grams) by the percentage (33%) to find the recommended daily amount of fiber.
+Step 4: Divide eight grams by 0.33 to find the recommended daily amount of fiber.
+Step 5: The total recommended daily amount of fiber is approximately 24.24 grams.",24.2
+"A bacon cheeseburger at a popular fast food restaurant contains 2070 milligrams (mg) of sodium, which is 86% of the recommended daily amount. What is the total recommended daily amount of sodium, in milligrams?","Step 1: Identify the amount of sodium in the bacon cheeseburger, which is 2070 milligrams (mg).
+Step 2: Understand that the sodium in the bacon cheeseburger is 86% of the recommended daily amount.
+Step 3: Divide the amount of sodium in the bacon cheeseburger by 0.86 to find the recommended daily amount of sodium.
+Step 4: The recommended daily amount of sodium is 2070 mg / 0.86 = 2406.98 mg.
+Step 5: Round the recommended daily amount of sodium to the nearest whole number.
+Step 6: The total recommended daily amount of sodium is approximately 2407 milligrams (mg).",2407
+"After 3 months on a diet, Lisa had lost 12% of her original weight. She lost 21 pounds. What was Lisa¡¯s original weight, in pounds?","Step 1: Let's assume Lisa's original weight is represented by ""x"" pounds.
+Step 2: According to the problem, Lisa lost 12% of her original weight, which is equal to 0.12x pounds.
+Step 3: The problem states that Lisa lost 21 pounds, so we can set up the equation: 0.12x = 21.
+Step 4: To solve for x, divide both sides of the equation by 0.12: x = 21 / 0.12.
+Step 5: Simplify the right side of the equation: x = 175.
+Step 6: Therefore, Lisa's original weight was 175 pounds.",175
+Yuki bought a dress on sale for $72. The sale price was 60% of the original price. What was the original price of the dress?,"Step 1: Identify the sale price of the dress, which is $72.
+Step 2: Understand that the sale price is 60% of the original price.
+Step 3: Divide the sale price by 60% (or 0.6) to find the original price.
+Step 4: $72 ¡Â 0.6 = $120.
+Step 5: The original price of the dress was $120.",120
+Tim left a $9 tip for a $50 restaurant bill. What percent tip did he leave?,"Solution:
+Step 1: Identify the amount of the restaurant bill, which is $50.
+Step 2: Identify the amount of the tip left by Tim, which is $9.
+Step 3: Calculate the percentage of the tip by dividing the tip amount by the bill amount and multiplying by 100.
+Step 4: The percentage tip left by Tim is ($9 / $50) * 100 = 18%.",18
+"The nutrition fact sheet at a fast food restaurant says the fish sandwich has 380 calories, and 171 calories are from fat. What percent of the total calories is from fat?","Step 1: Identify the total number of calories in the fish sandwich, which is 380 calories.
+Step 2: Determine the number of calories that come from fat, which is 171 calories.
+Step 3: Divide the number of calories from fat by the total number of calories and multiply by 100 to find the percentage. 
+Step 4: Calculate the percentage of calories from fat by (171 calories / 380 calories) * 100 = 45%. 
+Therefore, 45% of the total calories in the fish sandwich come from fat.",45
+"Emma gets paid $3,000 per month. She pays $750 a month for rent. What percent of her monthly pay goes to rent?","Step 1: Identify Emma's monthly income, which is $3,000.
+Step 2: Determine the amount of money Emma pays for rent each month, which is $750.
+Step 3: Divide the rent amount by Emma's monthly income: $750 / $3,000.
+Step 4: Simplify the fraction: $750 / $3,000 = 1/4.
+Step 5: Convert the fraction to a percentage by multiplying by 100: 1/4 * 100 = 25%.
+Step 6: The percentage of Emma's monthly pay that goes to rent is 25%.",25
+"Tamanika got a raise in her hourly pay, from $15.50 to $17.36. Find the percent increase.","Step 1: Identify the initial hourly pay, which is $15.50.
+Step 2: Identify the new hourly pay, which is $17.36.
+Step 3: Calculate the difference between the new and initial hourly pay: $17.36 - $15.50 = $1.86.
+Step 4: Calculate the percent increase by dividing the difference by the initial hourly pay and multiplying by 100: ($1.86 / $15.50) * 100 = 12%. 
+Step 5: The percent increase in Tamanika's hourly pay is 12%.",12
+"Annual student fees at the University of California rose from about $4,000 in 2000 to about $12,000 in 2010. Find the percent increase.","Step 1: Identify the initial student fees in 2000, which is $4,000.
+Step 2: Identify the final student fees in 2010, which is $12,000.
+Step 3: Calculate the difference between the final and initial student fees: $12,000 - $4,000 = $8,000.
+Step 4: Calculate the percent increase by dividing the difference by the initial student fees and multiplying by 100: ($8,000 / $4,000) * 100 = 200%.
+Step 5: The percent increase in student fees from 2000 to 2010 is 200%.",200
+A grocery store reduced the price of a loaf of bread from $2.80 to $2.73. Find the percent decrease.,"Step 1: Identify the original price of the loaf of bread, which is $2.80.
+Step 2: Identify the new price of the loaf of bread, which is $2.73.
+Step 3: Calculate the decrease in price by subtracting the new price from the original price: $2.80 - $2.73 = $0.07.
+Step 4: Calculate the percent decrease by dividing the decrease in price by the original price and multiplying by 100: ($0.07 / $2.80) * 100 = 2.5%.
+Step 5: The percent decrease in the price of the loaf of bread is 2.5%.",2.5
+"Hernando¡¯s salary was $49,500 last year. This year his salary was cut to $44,055. Find the percent decrease.","Step 1: Identify Hernando's salary last year, which is $49,500.
+Step 2: Identify Hernando's salary this year, which is $44,055.
+Step 3: Calculate the decrease in salary by subtracting this year's salary from last year's salary: $49,500 - $44,055 = $5,445.
+Step 4: Calculate the percent decrease by dividing the decrease in salary by last year's salary and multiplying by 100: ($5,445 / $49,500) * 100 = 10.99%.
+Step 5: The percent decrease in Hernando's salary is approximately 10.99%.",11
+"At the campus coffee cart, a medium coffee costs $1.65. MaryAnne brings $2.00 with her when she buys a cup of coffee and leaves the change as a tip. What percent tip does she leave?","Step 1: Identify the cost of a medium coffee at the campus coffee cart, which is $1.65.
+Step 2: Determine the amount of money MaryAnne brings with her, which is $2.00.
+Step 3: Calculate the change MaryAnne leaves as a tip by subtracting the cost of the coffee from the amount of money she brings: $2.00 - $1.65 = $0.35.
+Step 4: Convert the change left as a tip to a percentage by dividing it by the cost of the coffee and multiplying by 100: ($0.35 / $1.65) * 100 = 21.21%.
+Step 5: MaryAnne leaves a tip of approximately 21.21%.",21.2
+"At a school concert, the total value of tickets sold was $1,506. Student tickets sold for $6 each and adult tickets sold for $9 each. The number of adult tickets sold was five less than three times the number of student tickets sold. How many student tickets were sold?","Step 1: Let's assume the number of student tickets sold as ""x"".
+Step 2: According to the problem, the number of adult tickets sold is five less than three times the number of student tickets sold, which can be expressed as 3x - 5.
+Step 3: The total value of tickets sold is $1,506, so we can set up the equation 6x + 9(3x - 5) = 1506.
+Step 4: Simplify the equation: 6x + 27x - 45 = 1506.
+Step 5: Combine like terms: 33x - 45 = 1506.
+Step 6: Add 45 to both sides of the equation: 33x = 1551.
+Step 7: Divide both sides of the equation by 33: x = 47.
+Step 8: Therefore, 47 student tickets were sold.",47
+"Galen sold 810 tickets for his church¡¯s carnival for a total of $2,820. Children¡¯s tickets cost $3 each and adult tickets cost $5 each. How many children¡¯s tickets did he sell?","Step 1: Let's assume the number of children's tickets sold as ""x"".
+Step 2: The number of adult tickets sold can be calculated as ""810 - x"" since the total number of tickets sold is 810.
+Step 3: The total revenue from children's tickets can be calculated as ""3x"" since each children's ticket costs $3.
+Step 4: The total revenue from adult tickets can be calculated as ""5(810 - x)"" since each adult ticket costs $5.
+Step 5: The total revenue from all tickets can be calculated as ""$2820"" since the total revenue is given as $2820.
+Step 6: Set up the equation ""3x + 5(810 - x) = 2820"" to represent the total revenue equation.
+Step 7: Simplify the equation by distributing the 5: ""3x + 4050 - 5x = 2820"".
+Step 8: Combine like terms: ""-2x + 4050 = 2820"".
+Step 9: Subtract 4050 from both sides of the equation: ""-2x = -1230"".
+Step 10: Divide both sides of the equation by -2: ""x = 615"".
+Step 11: Therefore, Galen sold 615 children's tickets.",615
+Monica paid $8.36 for stamps. The number of 41-cent stamps was four more than twice the number of two-cent stamps. How many 41-cent stamps did Monica buy?,"Step 1: Let's assume the number of two-cent stamps Monica bought is x.
+Step 2: According to the problem, the number of 41-cent stamps is four more than twice the number of two-cent stamps, which can be expressed as 2x + 4.
+Step 3: The value of each two-cent stamp is $0.02, so the total cost of the two-cent stamps is 0.02x dollars.
+Step 4: The value of each 41-cent stamp is $0.41, so the total cost of the 41-cent stamps is 0.41(2x + 4) dollars.
+Step 5: The total cost of all the stamps is $8.36, so we can set up the equation 0.02x + 0.41(2x + 4) = 8.36.
+Step 6: Simplify the equation by distributing 0.41 to 2x and 4: 0.02x + 0.82x + 1.64 = 8.36.
+Step 7: Combine like terms: 0.84x + 1.64 = 8.36.
+Step 8: Subtract 1.64 from both sides of the equation: 0.84x = 6.72.
+Step 9: Divide both sides of the equation by 0.84 to solve for x: x = 8.
+Step 10: Therefore, Monica bought 8 two-cent stamps.
+Step 11: To find the number of 41-cent stamps, substitute the value of x into the expression 2x + 4: 2(8) + 4 = 16 + 4 = 20.
+Step 12: Monica bought 20 41-cent stamps.",20
+"Henning is mixing raisins and nuts to make 10 pounds of trail mix. Raisins cost $2 a pound and nuts cost $6 a pound. If Henning wants his cost for the trail mix to be $5.20 a pound, how many pounds of raisins should he use?","Step 1: Determine the cost per pound for raisins, which is $2.
+Step 2: Determine the cost per pound for nuts, which is $6.
+Step 3: Determine the desired cost per pound for the trail mix, which is $5.20.
+Step 4: Set up the equation: (cost of raisins * pounds of raisins) + (cost of nuts * pounds of nuts) = total cost of trail mix.
+Step 5: Substitute the given values into the equation: (2 * pounds of raisins) + (6 * pounds of nuts) = 5.20 * 10.
+Step 6: Simplify the equation: 2pounds of raisins + 6pounds of nuts = 52.
+Step 7: Since Henning wants to use only raisins, the pounds of nuts will be 0.
+Step 8: Substitute the value of pounds of nuts into the equation: 2pounds of raisins + 6(0) = 52.
+Step 9: Simplify the equation: 2pounds of raisins = 52.
+Step 10: Solve for pounds of raisins: pounds of raisins = 52 / 2.
+Step 11: Calculate the pounds of raisins: pounds of raisins = 26.
+Step 12: Henning should use 26 pounds of raisins for the trail mix.",2
+The school play sold $550 in tickets one night. The number of $8 adult tickets was 10 less than twice the number of $5 child tickets. How many of adult tickets were sold?,"Step 1: Let's assume the number of child tickets sold as ""x"".
+Step 2: According to the problem, the number of adult tickets sold is 10 less than twice the number of child tickets. So, the number of adult tickets sold can be represented as 2x - 10.
+Step 3: The total revenue from child tickets can be calculated by multiplying the number of child tickets (x) by the price of each child ticket ($5). So, the revenue from child tickets is 5x.
+Step 4: The total revenue from adult tickets can be calculated by multiplying the number of adult tickets (2x - 10) by the price of each adult ticket ($8). So, the revenue from adult tickets is 8(2x - 10).
+Step 5: The total revenue from both child and adult tickets is equal to the total revenue from ticket sales, which is $550. So, we can set up the equation: 5x + 8(2x - 10) = 550.
+Step 6: Simplify the equation: 5x + 16x - 80 = 550.
+Step 7: Combine like terms: 21x - 80 = 550.
+Step 8: Add 80 to both sides of the equation: 21x = 630.
+Step 9: Divide both sides of the equation by 21: x = 30.
+Step 10: Substitute the value of x back into the expression for the number of adult tickets: 2x - 10 = 2(30) - 10 = 60 - 10 = 50.
+Step 11: Therefore, 50 adult tickets were sold.",50
+"The movie theater took in $1,220 one Monday night. The number of $7 child tickets was ten more than twice the number of $9 adult tickets. How many of child tickets were sold?","Step 1: Let's assume the number of adult tickets sold as 'x'.
+Step 2: According to the problem, the number of child tickets sold is ten more than twice the number of adult tickets. So, the number of child tickets sold can be represented as 2x + 10.
+Step 3: The cost of each adult ticket is $9, so the total revenue from adult tickets is 9x dollars.
+Step 4: The cost of each child ticket is $7, so the total revenue from child tickets is 7(2x + 10) dollars.
+Step 5: The total revenue from both adult and child tickets is $1,220, so we can write the equation as 9x + 7(2x + 10) = 1,220.
+Step 6: Simplify the equation: 9x + 14x + 70 = 1,220.
+Step 7: Combine like terms: 23x + 70 = 1,220.
+Step 8: Subtract 70 from both sides of the equation: 23x = 1,150.
+Step 9: Divide both sides of the equation by 23: x = 50.
+Step 10: The number of child tickets sold is 2x + 10, so substituting the value of x, we get 2(50) + 10 = 110.
+Step 11: Therefore, 110 child tickets were sold.",110
+"The ice rink sold 95 tickets for the afternoon skating session, for a total of $828. General admission tickets cost $10 each and youth tickets cost $8 each. How many general admission tickets were sold?","Step 1: Let's assume the number of general admission tickets sold as ""x"".
+Step 2: The number of youth tickets sold can be calculated as 95 - x, since the total number of tickets sold is 95.
+Step 3: The total revenue from general admission tickets can be calculated as 10x, since each general admission ticket costs $10.
+Step 4: The total revenue from youth tickets can be calculated as 8(95 - x), since each youth ticket costs $8.
+Step 5: The total revenue from both types of tickets is given as $828.
+Step 6: Set up the equation: 10x + 8(95 - x) = 828.
+Step 7: Simplify the equation: 10x + 760 - 8x = 828.
+Step 8: Combine like terms: 2x + 760 = 828.
+Step 9: Subtract 760 from both sides of the equation: 2x = 68.
+Step 10: Divide both sides of the equation by 2: x = 34.
+Step 11: Therefore, 34 general admission tickets were sold.",34
+The box office sold 360 tickets to a concert at the college. The total receipts were $4170. General admission tickets cost $15 and student tickets cost $10. How many general admission tickets were sold?,"Step 1: Let's assume the number of general admission tickets sold as ""x"".
+Step 2: Since the total number of tickets sold is 360, the number of student tickets sold would be 360 - x.
+Step 3: The total revenue from general admission tickets would be the number of general admission tickets sold multiplied by the price of each ticket, which is 15x.
+Step 4: The total revenue from student tickets would be the number of student tickets sold multiplied by the price of each ticket, which is 10(360 - x).
+Step 5: The total revenue from both types of tickets is given as $4170.
+Step 6: Set up the equation: 15x + 10(360 - x) = 4170.
+Step 7: Simplify the equation: 15x + 3600 - 10x = 4170.
+Step 8: Combine like terms: 5x + 3600 = 4170.
+Step 9: Subtract 3600 from both sides of the equation: 5x = 570.
+Step 10: Divide both sides of the equation by 5: x = 114.
+Step 11: Therefore, 114 general admission tickets were sold.",114
+Julie went to the post office and bought both $0.41 stamps and $0.26 postcards. She spent $51.40. The number of stamps was 20 more than twice the number of postcards. How many $0.41 stamps did she buy?,"Step 1: Let's assume the number of postcards Julie bought is ""x"".
+Step 2: According to the problem, the number of stamps Julie bought is 20 more than twice the number of postcards. So, the number of stamps is 2x + 20.
+Step 3: The cost of each stamp is $0.41, and the cost of each postcard is $0.26.
+Step 4: The total cost of the stamps is (2x + 20) * $0.41.
+Step 5: The total cost of the postcards is x * $0.26.
+Step 6: The total amount Julie spent is the sum of the cost of stamps and the cost of postcards, which is (2x + 20) * $0.41 + x * $0.26.
+Step 7: According to the problem, Julie spent $51.40, so we can set up the equation (2x + 20) * $0.41 + x * $0.26 = $51.40.
+Step 8: Solve the equation to find the value of x, which represents the number of postcards Julie bought.
+Step 9: Once we find the value of x, we can calculate the number of $0.41 stamps Julie bought by substituting the value of x into the expression 2x + 20.",100
+Maria spent $12.50 at the post office. She bought three times as many $0.41 stamps as $0.02 stamps. How many $0.41 stamps did she buy?,"Step 1: Identify the amount of money Maria spent at the post office, which is $12.50.
+Step 2: Let's assume Maria bought x $0.02 stamps.
+Step 3: Determine the number of $0.41 stamps Maria bought, which is three times the number of $0.02 stamps. So, the number of $0.41 stamps is 3x.
+Step 4: Calculate the total cost of the $0.02 stamps by multiplying the number of $0.02 stamps (x) by the cost per stamp ($0.02). The total cost is 0.02x dollars.
+Step 5: Calculate the total cost of the $0.41 stamps by multiplying the number of $0.41 stamps (3x) by the cost per stamp ($0.41). The total cost is 0.41 * 3x = 1.23x dollars.
+Step 6: Add the total cost of the $0.02 stamps and the total cost of the $0.41 stamps to find the total amount of money Maria spent. 0.02x + 1.23x = 12.50.
+Step 7: Combine like terms on the left side of the equation. 1.25x = 12.50.
+Step 8: Divide both sides of the equation by 1.25 to solve for x. x = 10.
+Step 9: Substitute the value of x back into the expression for the number of $0.41 stamps. 3x = 3 * 10 = 30.
+Step 10: Maria bought 30 $0.41 stamps.",30
+Hilda has $210 worth of $10 and $12 stock shares. The numbers of $10 shares is five more than twice the number of $12 shares. How many $10 shares does she have?,"Step 1: Let's assume the number of $12 shares Hilda has is x.
+Step 2: According to the problem, the number of $10 shares is five more than twice the number of $12 shares. So, the number of $10 shares is 2x + 5.
+Step 3: The value of each $12 share is $12, so the total value of the $12 shares is 12x.
+Step 4: Similarly, the value of each $10 share is $10, so the total value of the $10 shares is 10(2x + 5).
+Step 5: The total value of all the shares is $210, so we can set up the equation 12x + 10(2x + 5) = 210.
+Step 6: Simplify the equation: 12x + 20x + 50 = 210.
+Step 7: Combine like terms: 32x + 50 = 210.
+Step 8: Subtract 50 from both sides of the equation: 32x = 160.
+Step 9: Divide both sides of the equation by 32: x = 5.
+Step 10: Therefore, Hilda has 5 $12 shares.
+Step 11: To find the number of $10 shares, substitute the value of x into the expression 2x + 5: 2(5) + 5 = 15.
+Step 12: Therefore, Hilda has 15 $10 shares.",15
+Lauren in making 15 liters of mimosas for a brunch banquet. Orange juice costs her $1.50 per liter and champagne costs her $12 per liter. How many liters of orange juice should she use for the mimosas to cost Lauren $5 per liter?,"Step 1: Identify the total amount of mimosas Lauren is making, which is 15 liters.
+Step 2: Let's assume Lauren uses x liters of orange juice for the mimosas.
+Step 3: The cost of orange juice per liter is $1.50, so the cost of x liters of orange juice is 1.50x dollars.
+Step 4: The remaining amount of mimosas is (15 - x) liters, which will be filled with champagne.
+Step 5: The cost of champagne per liter is $12, so the cost of (15 - x) liters of champagne is 12(15 - x) dollars.
+Step 6: The total cost of the mimosas is the sum of the cost of orange juice and the cost of champagne, which should be equal to 15 liters multiplied by $5 per liter.
+Step 7: Set up the equation: 1.50x + 12(15 - x) = 15 * 5.
+Step 8: Simplify the equation: 1.50x + 180 - 12x = 75.
+Step 9: Combine like terms: -10.50x + 180 = 75.
+Step 10: Subtract 180 from both sides: -10.50x = -105.
+Step 11: Divide both sides by -10.50: x = 10.
+Step 12: Lauren should use 10 liters of orange juice for the mimosas to cost her $5 per liter.",10
+Kaapo is mixing Kona beans and Maui beans to make 25 pounds of coffee blend. Kona beans cost Kaapo $15 per pound and Maui beans cost $24 per pound. How many pounds of Kona beans should Kaapo use for his blend to cost him $17.70 per pound?,"Step 1: Let's assume that Kaapo uses x pounds of Kona beans for his coffee blend.
+Step 2: Since the total weight of the coffee blend is 25 pounds, the weight of the Maui beans used will be 25 - x pounds.
+Step 3: The cost of the Kona beans used will be x pounds * $15 per pound = $15x.
+Step 4: The cost of the Maui beans used will be (25 - x) pounds * $24 per pound = $24(25 - x).
+Step 5: The total cost of the coffee blend will be the sum of the costs of the Kona and Maui beans, which is $15x + $24(25 - x).
+Step 6: The cost per pound of the coffee blend should be $17.70 per pound, so we can set up the equation: ($15x + $24(25 - x)) / 25 = $17.70.
+Step 7: Simplify the equation: (15x + 24(25 - x)) / 25 = 17.70.
+Step 8: Distribute the 24: (15x + 600 - 24x) / 25 = 17.70.
+Step 9: Combine like terms: (-9x + 600) / 25 = 17.70.
+Step 10: Multiply both sides of the equation by 25 to eliminate the denominator: -9x + 600 = 442.50.
+Step 11: Subtract 600 from both sides of the equation: -9x = -157.50.
+Step 12: Divide both sides of the equation by -9 to solve for x: x = 17.50.
+Step 13: Therefore, Kaapo should use 17.50 pounds of Kona beans for his coffee blend to cost him $17.70 per pound.",17.5
+"As the treasurer of her daughter¡¯s Girl Scout troop, Laney collected money for some girls and adults to go to a 3-day camp. Each girl paid $75 and each adult paid $30. The total amount of money collected for camp was $765. If the number of girls is three times the number of adults, how many girls paid for camp?","Step 1: Let's assume the number of adults is x.
+Step 2: According to the problem, the number of girls is three times the number of adults, so the number of girls is 3x.
+Step 3: The cost for each girl is $75, so the total amount collected from the girls is 3x * $75 = $225x.
+Step 4: The cost for each adult is $30, so the total amount collected from the adults is x * $30 = $30x.
+Step 5: The total amount collected for camp is $765, so we can set up the equation: $225x + $30x = $765.
+Step 6: Combine like terms: $255x = $765.
+Step 7: Divide both sides of the equation by $255 to solve for x: x = $765 / $255 = 3.
+Step 8: Therefore, the number of girls is 3x = 3 * 3 = 9.
+Step 9: So, 9 girls paid for camp.",9
+"An express train and a local train leave Pittsburgh to travel to Washington, D.C. The express train can make the trip in 4 hours and the local train takes 5 hours for the trip. The speed of the express train is 12 miles per hour faster than the speed of the local train. Find the speed of the express train, in miles per hour.","Step 1: Let's assume the speed of the local train is x miles per hour.
+Step 2: Since the express train is 12 miles per hour faster than the local train, the speed of the express train is x + 12 miles per hour.
+Step 3: We know that distance = speed ¡Á time. The distance traveled by both trains is the same, as they are traveling from Pittsburgh to Washington, D.C.
+Step 4: The distance traveled by the express train is (x + 12) miles per hour ¡Á 4 hours = 4x + 48 miles.
+Step 5: The distance traveled by the local train is x miles per hour ¡Á 5 hours = 5x miles.
+Step 6: Since the distances are the same, we can set up the equation 4x + 48 = 5x.
+Step 7: Subtract 4x from both sides of the equation to isolate the variable: 48 = x.
+Step 8: Therefore, the speed of the express train is x + 12 = 48 + 12 = 60 miles per hour.",60
+"Christopher and his parents live 115 miles apart. They met at a restaurant between their homes to celebrate his mother¡¯s birthday. Christopher drove 1.5 hours while his parents drove 1 hour to get to the restaurant. Christopher¡¯s average speed was 10 miles per hour faster than his parents¡¯ average speed. What were the average speed of Christopher as he drove to the restaurant, in miles per hour?","Step 1: Identify the distance between Christopher and his parents' homes, which is 115 miles.
+Step 2: Determine the time it took for Christopher to drive to the restaurant, which is 1.5 hours.
+Step 3: Determine the time it took for Christopher's parents to drive to the restaurant, which is 1 hour.
+Step 4: Understand that Christopher's average speed was 10 miles per hour faster than his parents' average speed.
+Step 5: Calculate the average speed of Christopher's parents by dividing the distance (115 miles) by the time (1 hour).
+Step 6: Calculate Christopher's average speed by adding 10 miles per hour to his parents' average speed.
+Step 7: The average speed of Christopher as he drove to the restaurant is the result obtained in Step 6.",50
+Two truck drivers leave a rest area on the interstate at the same time. One truck travels east and the other one travels west. The truck traveling west travels at 70 mph and the truck traveling east has an average speed of 60 mph. How many hours will they travel before they are 325 miles apart?,"Step 1: Determine the speeds of the two trucks, with one traveling west at 70 mph and the other traveling east at 60 mph.
+Step 2: Understand that the trucks are moving away from each other, so their speeds should be added together to find the rate at which they are moving apart. 
+Step 3: Add the speeds of the two trucks: 70 mph + 60 mph = 130 mph.
+Step 4: Recognize that the trucks are moving apart at a rate of 130 mph.
+Step 5: Divide the distance they need to travel (325 miles) by the rate at which they are moving apart (130 mph) to find the time it takes for them to be 325 miles apart.
+Step 6: Calculate the time by dividing 325 miles by 130 mph: 325 miles / 130 mph = 2.5 hours.
+Step 7: Therefore, the two trucks will travel for 2.5 hours before they are 325 miles apart.",2.5
+"When Katie Mae walks to school, it takes her 30 minutes. If she rides her bike, it takes her 15 minutes. Her speed is three miles per hour faster when she rides her bike than when she walks. What is her walking speed, in miles per hour?","Solution:
+Step 1: Let's assume Katie Mae's walking speed is ""x"" miles per hour.
+Step 2: Since she walks to school in 30 minutes, we can convert this time to hours by dividing it by 60. So, her walking time is 30/60 = 0.5 hours.
+Step 3: Using the formula distance = speed * time, we can calculate the distance she walks as distance = x * 0.5.
+Step 4: Similarly, let's assume her biking speed is ""x + 3"" miles per hour.
+Step 5: Since she rides her bike to school in 15 minutes, we can convert this time to hours by dividing it by 60. So, her biking time is 15/60 = 0.25 hours.
+Step 6: Using the same formula, we can calculate the distance she bikes as distance = (x + 3) * 0.25.
+Step 7: Since the distance she walks and the distance she bikes are the same (as she is going to the same school), we can set up an equation: x * 0.5 = (x + 3) * 0.25.
+Step 8: Solve the equation by multiplying both sides by 2 to eliminate the fraction: 2x * 0.5 = 2 * (x + 3) * 0.25.
+Step 9: Simplify the equation: x = (x + 3) * 0.5.
+Step 10: Distribute the 0.5 on the right side of the equation: x = 0.5x + 1.5.
+Step 11: Subtract 0.5x from both sides of the equation: x - 0.5x = 0.5x + 1.5 - 0.5x.
+Step 12: Simplify the equation: 0.5x = 1.5.
+Step 13: Divide both sides of the equation by 0.5 to solve for x: x = 1.5 / 0.5.
+Step 14: Simplify the equation: x = 3.
+Step 15: Therefore, Katie Mae's walking speed is 3 miles per hour.",3
+"Lilah is moving from Portland to Seattle. It takes her three hours to go by train. Mason leaves the train station in Portland and drives to the train station in Seattle with all Lilah¡¯s boxes in his car. It takes him 2.4 hours to get to Seattle, driving at 15 miles per hour faster than the speed of the train. Find Mason¡¯s speed, in miles per hour.","Step 1: Determine the time it takes for Lilah to travel from Portland to Seattle by train, which is 3 hours.
+Step 2: Understand that Mason's travel time from Portland to Seattle is 2.4 hours.
+Step 3: Determine that Mason's driving speed is 15 miles per hour faster than the speed of the train.
+Step 4: Set up an equation to represent the relationship between the distance traveled by Lilah and Mason: Distance = Speed ¡Á Time.
+Step 5: Let x be the speed of the train in miles per hour.
+Step 6: Use the equation Distance = Speed ¡Á Time to find the distance traveled by Lilah: Distance = x ¡Á 3.
+Step 7: Use the equation Distance = Speed ¡Á Time to find the distance traveled by Mason: Distance = (x + 15) ¡Á 2.4.
+Step 8: Set up an equation to represent the relationship between the distances traveled by Lilah and Mason: Distance by Lilah = Distance by Mason.
+Step 9: Set up the equation x ¡Á 3 = (x + 15) ¡Á 2.4.
+Step 10: Solve the equation to find the value of x, which represents the speed of the train.
+Step 11: Substitute the value of x into the equation x + 15 to find Mason's speed, in miles per hour.",75
+"Two busses go from Sacramento for San Diego. The express bus makes the trip in 6.8 hours and the local bus takes 10.2 hours for the trip. The speed of the express bus is 25 mph faster than the speed of the local bus. Find the speed of the express bus, in mph.","Step 1: Let's assume the speed of the local bus is x mph.
+Step 2: Since the express bus is 25 mph faster than the local bus, the speed of the express bus is x + 25 mph.
+Step 3: We know that time = distance / speed. 
+Step 4: The distance covered by both buses is the same, so we can set up the equation: 6.8 = 10.2.
+Step 5: Substitute the values into the equation: 6.8 = distance / x and 10.2 = distance / (x + 25).
+Step 6: Solve the equation 6.8 = distance / x for distance: distance = 6.8x.
+Step 7: Solve the equation 10.2 = distance / (x + 25) for distance: distance = 10.2(x + 25).
+Step 8: Since the distances are equal, we can set up the equation: 6.8x = 10.2(x + 25).
+Step 9: Simplify the equation: 6.8x = 10.2x + 255.
+Step 10: Subtract 10.2x from both sides: 6.8x - 10.2x = 255.
+Step 11: Simplify the equation: -3.4x = 255.
+Step 12: Divide both sides by -3.4: x = -75.
+Step 13: The speed of the local bus is -75 mph, which is not possible in this context.
+Step 14: Therefore, there is no solution to this problem.",75
+"Saul drove his truck 3 hours from Dallas towards Kansas City and stopped at a truck stop to get dinner. At the truck stop he met Erwin, who had driven 4 hours from Kansas City towards Dallas. The distance between Dallas and Kansas City is 542 miles, and Erwin¡¯s speed was eight miles per hour slower than Saul¡¯s speed. Find the speed of Saul, in mph.","Step 1: Let's assume Saul's speed is x mph.
+Step 2: Since Erwin's speed was eight miles per hour slower than Saul's speed, Erwin's speed is (x - 8) mph.
+Step 3: Saul drove for 3 hours, so the distance he traveled is 3 * x miles.
+Step 4: Erwin drove for 4 hours, so the distance he traveled is 4 * (x - 8) miles.
+Step 5: The total distance between Dallas and Kansas City is 542 miles.
+Step 6: Therefore, the equation is 3 * x + 4 * (x - 8) = 542.
+Step 7: Simplify the equation: 3x + 4x - 32 = 542.
+Step 8: Combine like terms: 7x - 32 = 542.
+Step 9: Add 32 to both sides of the equation: 7x = 574.
+Step 10: Divide both sides of the equation by 7: x = 82.
+Step 11: The speed of Saul is 82 mph.",82
+"Sisters Helen and Anne live 332 miles apart. For Thanksgiving, they met at their other sister¡¯s house partway between their homes. Helen drove 3.2 hours and Anne drove 2.8 hours. Helen¡¯s average speed was four miles per hour faster than Anne¡¯s. Find Helen¡¯s average speed, in miles per hour.","Step 1: Identify the distance between Helen and Anne's homes, which is 332 miles.
+Step 2: Understand that Helen drove for 3.2 hours and Anne drove for 2.8 hours.
+Step 3: Determine that Helen's average speed was four miles per hour faster than Anne's average speed.
+Step 4: Let's assume Anne's average speed as x miles per hour.
+Step 5: Helen's average speed can be expressed as (x + 4) miles per hour.
+Step 6: Use the formula speed = distance / time to calculate the average speed.
+Step 7: For Helen, the average speed is (332 miles / 3.2 hours) = 103.75 miles per hour.
+Step 8: For Anne, the average speed is (332 miles / 2.8 hours) = 118.57 miles per hour.
+Step 9: Set up the equation (x + 4) = 118.57.
+Step 10: Solve the equation for x: x = 118.57 - 4 = 114.57 miles per hour.
+Step 11: Therefore, Helen's average speed is 114.57 miles per hour.",57.2
+"Elvira and Aletheia live 3.1 miles apart on the same street. They are in a study group that meets at a coffee shop between their houses. It took Elvira half an hour and Aletheia two-thirds of an hour to walk to the coffee shop. Aletheia¡¯s speed is 0.6 miles per hour slower than Elvira¡¯s speed. Find Elvira¡¯s walking speed, in miles per hour.","Step 1: Let's assume Elvira's walking speed is x miles per hour.
+Step 2: Since Aletheia's speed is 0.6 miles per hour slower than Elvira's speed, Aletheia's walking speed would be (x - 0.6) miles per hour.
+Step 3: Elvira took half an hour to walk to the coffee shop, which means she traveled a distance of 0.5x miles.
+Step 4: Aletheia took two-thirds of an hour to walk to the coffee shop, which means she traveled a distance of (2/3)(x - 0.6) miles.
+Step 5: The total distance between Elvira and Aletheia's houses is 3.1 miles.
+Step 6: Therefore, the equation representing the total distance is 0.5x + (2/3)(x - 0.6) = 3.1.
+Step 7: Simplify the equation: 0.5x + (2/3)x - (2/3)(0.6) = 3.1.
+Step 8: Combine like terms: (0.5 + 2/3)x - (2/3)(0.6) = 3.1.
+Step 9: Convert the fractions to a common denominator: (3/6 + 4/6)x - (2/3)(0.6) = 3.1.
+Step 10: Simplify the fractions: (7/6)x - (2/3)(0.6) = 3.1.
+Step 11: Multiply (2/3)(0.6): (7/6)x - (2/3)(3/5) = 3.1.
+Step 12: Simplify (2/3)(3/5): (7/6)x - (6/15) = 3.1.
+Step 13: Multiply (7/6)x by 15/15 to get a common denominator: (7/6)(15/15)x - (6/15) = 3.1.
+Step 14: Simplify (7/6)(15/15)x: (105/90)x - (6/15) = 3.1.
+Step 15: Combine like terms: (105/90)x - (6/15) = 3.1.
+Step 16: Simplify the fractions: (7/6)x - (2/5) = 3.1.
+Step 17: Add (2/5) to both sides of the equation: (7/6)x = 3.1 + (2/5).
+Step 18: Convert 3.1 to a fraction: (7/6)x = (31/10) + (2/5).
+Step 19: Find a common denominator for (31/10) and (2/5): (7/6)x = (31/10)(5/5) + (2/5)(2/2).
+Step 20: Simplify the fractions: (7/6)x = (155/50) + (4/10).
+Step 21: Combine like terms: (7/6)x = (155/50) + (2/5).
+Step 22: Convert (155/50) to a mixed number: (7/6)x = 3 5/10 + 2/5.
+Step 23: Simplify the mixed number: (7/6)x = 3 1/2 + 2/5.
+Step 24: Convert 3 1/2 to an improper fraction: (7/6)x = (7/2) + 2/5.
+Step 25: Find a common denominator for (7/2) and (2/5): (7/6)x = (7/2)(5/5) + (2/5)(2/2).
+Step 26: Simplify the fractions: (7/6)x = (35/10) + (4/10).
+Step 27: Combine like terms: (7/6)x = (35/10) + (2/5).
+Step 28: Convert (35/10) to a mixed number: (7/6)x = 3 5/10 + 2/5.
+Step 29: Simplify the mixed number: (7/6)x = 3 1/2 + 2/5.
+Step 30: Convert 3 1/2 to an improper fraction: (7/6)x = (7/2) + 2/5.
+Step 31: Find a common denominator for (7/2) and (2/5): (7/6)x = (",3
+Cindy and Richard leave their dorm in Charleston at the same time. Cindy rides her bicycle north at a speed of 18 miles per hour. Richard rides his bicycle south at a speed of 14 miles per hour. How many hours will it take them to be 96 miles apart?,"Step 1: Understand that Cindy and Richard are leaving their dorm at the same time.
+Step 2: Identify Cindy's speed, which is 18 miles per hour, and Richard's speed, which is 14 miles per hour.
+Step 3: Recognize that Cindy is riding north and Richard is riding south, so they are moving in opposite directions.
+Step 4: Determine that the distance between them is increasing at a rate of 18 + 14 = 32 miles per hour.
+Step 5: Set up the equation: distance = rate ¡Á time.
+Step 6: Let the time it takes for them to be 96 miles apart be represented by t.
+Step 7: Use the equation: 96 = 32t.
+Step 8: Solve for t by dividing both sides of the equation by 32: t = 96/32 = 3.
+Step 9: The time it will take for Cindy and Richard to be 96 miles apart is 3 hours.",3
+Two busses leave Billings at the same time. The Seattle bus heads west on I-90 at a speed of 73 miles per hour while the Chicago bus heads east at a speed of 79 miles an hour. How many hours will it take them to be 532 miles apart?,"Step 1: Identify the speeds of the two buses, with the Seattle bus traveling at 73 miles per hour and the Chicago bus traveling at 79 miles per hour.
+Step 2: Understand that the buses are moving in opposite directions, so their speeds should be added together to determine the rate at which they are moving apart. 
+Step 3: Add the speeds of the two buses: 73 miles per hour + 79 miles per hour = 152 miles per hour.
+Step 4: Determine the time it will take for the buses to be 532 miles apart by dividing the distance by the rate at which they are moving apart: 532 miles / 152 miles per hour = 3.5 hours. 
+Step 5: Therefore, it will take the two buses 3.5 hours to be 532 miles apart.",3.5
+"Lorena walks the path around the park in 30 minutes. If she jogs, it takes her 20 minutes. Her jogging speed is 1.5 miles per hour faster than her walking speed. Find Lorena¡¯s walking speed, in miles per hour.","Step 1: Let's assume Lorena's walking speed is x miles per hour.
+Step 2: Since Lorena walks the path in 30 minutes, we can convert this to hours by dividing by 60. So, her walking time is 30/60 = 0.5 hours.
+Step 3: Using the formula distance = speed * time, we can calculate the distance Lorena walks as x * 0.5 = 0.5x miles.
+Step 4: Similarly, since Lorena jogs the path in 20 minutes, her jogging time is 20/60 = 0.33 hours.
+Step 5: Using the same formula, the distance Lorena jogs is (x + 1.5) * 0.33 = 0.33x + 0.495 miles.
+Step 6: Since the distance walked and jogged is the same, we can set up the equation 0.5x = 0.33x + 0.495.
+Step 7: Simplifying the equation, we get 0.17x = 0.495.
+Step 8: Divide both sides of the equation by 0.17 to solve for x: x = 0.495 / 0.17.
+Step 9: Evaluating the expression, we find x ¡Ö 2.91.
+Step 10: Therefore, Lorena's walking speed is approximately 2.91 miles per hour.",3
+"Cassius drives his boat upstream for 45 minutes. It takes him 30 minutes to return downstream. His speed going upstream is three miles per hour slower than his speed going downstream. Find his upstream speed, in miles per hour.","Step 1: Let's assume Cassius' speed downstream is x miles per hour.
+Step 2: Since his speed upstream is three miles per hour slower, his speed upstream would be (x - 3) miles per hour.
+Step 3: We know that time = distance / speed. Therefore, Cassius' time going upstream is 45 minutes and his time going downstream is 30 minutes.
+Step 4: Convert the time to hours by dividing by 60. Cassius' time going upstream is 45/60 = 0.75 hours and his time going downstream is 30/60 = 0.5 hours.
+Step 5: Using the formula time = distance / speed, we can write the equations: 0.75 = distance / (x - 3) and 0.5 = distance / x.
+Step 6: Solve the equations simultaneously to find the value of x.",6
+"Three-fourths of the people at a concert are children. If there are 87 children, what is the total number of people at the concert?","Step 1: Identify the number of children at the concert, which is 87.
+Step 2: Understand that three-fourths of the people at the concert are children.
+Step 3: Determine the total number of people at the concert by finding the reciprocal of three-fourths (which is four-thirds) and multiplying it by the number of children.
+Step 4: Calculate the total number of people at the concert by multiplying 87 by four-thirds.
+Step 5: Simplify the fraction four-thirds to a mixed number, which is 1 and one-third.
+Step 6: Multiply 87 by 1 and one-third to find the total number of people at the concert.",116
+The sum of a number and three is forty-one. Find the number.,"Step 1: Let's assume the number we need to find as ""x"".
+Step 2: Translate the given statement into an equation: x + 3 = 41.
+Step 3: Subtract 3 from both sides of the equation to isolate the variable: x = 41 - 3.
+Step 4: Simplify the equation: x = 38.
+Step 5: Therefore, the number we are looking for is 38.",38
+What number is 67% of 250?,"Solution:
+Step 1: Convert the percentage to a decimal by dividing it by 100. 67% becomes 0.67.
+Step 2: Multiply the decimal by the given number. 0.67 * 250 = 167.5.
+Step 3: Therefore, 67% of 250 is equal to 167.5.",167.5
+12.5% of what number is 20?,"Step 1: Let's assume the unknown number as ""x"".
+Step 2: Write the equation: 12.5% of x is equal to 20, which can be written as 0.125x = 20.
+Step 3: To solve for x, divide both sides of the equation by 0.125: x = 20 / 0.125.
+Step 4: Simplify the right side of the equation: x = 160.
+Step 5: Therefore, the number is 160.",160
+What percent of 125 is 150?,"Solution:
+Step 1: Identify the given values, which are 125 and 150.
+Step 2: Set up the equation: x% of 125 = 150.
+Step 3: Rewrite the equation as a proportion: x/100 = 150/125.
+Step 4: Cross multiply to solve for x: 125x = 15000.
+Step 5: Divide both sides of the equation by 125 to isolate x: x = 15000/125.
+Step 6: Simplify the expression: x = 120.
+Step 7: The answer is 120%.",120
+The bill for Dino¡¯s lunch was $19.45. He wanted to leave 20% of the total bill as a tip. How much should the tip be?,"Step 1: Identify the total bill amount, which is $19.45.
+Step 2: Understand that Dino wants to leave a 20% tip on the total bill.
+Step 3: Calculate the tip amount by multiplying the total bill by 20% (or 0.20).
+Step 4: The tip amount should be $19.45 * 0.20 = $3.89.",3.89
+Dolores bought a crib on sale for $350. The sale price was 40% of the original price. What was the original price of the crib?,"Step 1: Let's assume the original price of the crib is ""x"" dollars.
+Step 2: We know that the sale price is 40% of the original price, so the sale price is 0.40x dollars.
+Step 3: We are given that the sale price of the crib is $350, so we can set up the equation 0.40x = $350.
+Step 4: To solve for x, divide both sides of the equation by 0.40: x = $350 / 0.40.
+Step 5: Simplify the right side of the equation: x = $875.
+Step 6: Therefore, the original price of the crib was $875.",875
+"Angel¡¯s got a raise in his annual salary from $55,400 to $56,785. Find the percent increase.","Step 1: Identify the initial salary, which is $55,400.
+Step 2: Identify the final salary, which is $56,785.
+Step 3: Calculate the difference between the final salary and the initial salary: $56,785 - $55,400 = $1,385.
+Step 4: Calculate the percent increase by dividing the difference by the initial salary and multiplying by 100: ($1,385 / $55,400) * 100 = 2.5%.
+Step 5: The percent increase in Angel's annual salary is 2.5%.",2.5
+Paulette has $140 in $5 and $10 bills. The number of $10 bills is one less than twice the number of $5 bills. How many $5 bills does she have?,"Step 1: Let's assume the number of $5 bills Paulette has is x.
+Step 2: According to the problem, the number of $10 bills is one less than twice the number of $5 bills, which can be expressed as 2x - 1.
+Step 3: The total value of the $5 bills is 5x.
+Step 4: The total value of the $10 bills is 10(2x - 1) = 20x - 10.
+Step 5: The total amount of money Paulette has is the sum of the values of the $5 and $10 bills, which is 5x + 20x - 10 = 25x - 10.
+Step 6: According to the problem, Paulette has $140, so we can set up the equation 25x - 10 = 140.
+Step 7: Solve the equation for x: 
+          25x - 10 = 140
+          25x = 150
+          x = 6.
+Step 8: Therefore, Paulette has 6 $5 bills.",6
+A church luncheon made $842. Adult tickets cost $10 each and children¡¯s tickets cost $6 each. The number of children was 12 more than twice the number of adults. How many adult tickets were sold?,"Step 1: Let's assume the number of adult tickets sold is ""x"".
+Step 2: According to the problem, the number of children's tickets sold is 12 more than twice the number of adults, which can be expressed as 2x + 12.
+Step 3: The total revenue from adult tickets is given by multiplying the number of adult tickets (x) by the cost per adult ticket ($10), so it is 10x.
+Step 4: The total revenue from children's tickets is given by multiplying the number of children's tickets (2x + 12) by the cost per children's ticket ($6), so it is 6(2x + 12).
+Step 5: The total revenue from both adult and children's tickets is equal to the total revenue from the luncheon, which is $842. Therefore, we can set up the equation: 10x + 6(2x + 12) = 842.
+Step 6: Simplify the equation: 10x + 12x + 72 = 842.
+Step 7: Combine like terms: 22x + 72 = 842.
+Step 8: Subtract 72 from both sides of the equation: 22x = 770.
+Step 9: Divide both sides of the equation by 22: x = 35.
+Step 10: The number of adult tickets sold is 35.",35
+"125 tickets were sold for the jazz band concert for a total of $1,022. Student tickets cost $6 each and general admission tickets cost $10 each. How many student tickets were sold?","Step 1: Let's assume the number of student tickets sold as ""x"".
+Step 2: The number of general admission tickets sold can be calculated as 125 - x, since the total number of tickets sold is 125.
+Step 3: The total revenue from student tickets can be calculated as 6x, since each student ticket costs $6.
+Step 4: The total revenue from general admission tickets can be calculated as 10(125 - x), since each general admission ticket costs $10.
+Step 5: The total revenue from all tickets can be calculated as 1022, since the total revenue from all tickets sold is $1,022.
+Step 6: Set up the equation: 6x + 10(125 - x) = 1022.
+Step 7: Simplify the equation: 6x + 1250 - 10x = 1022.
+Step 8: Combine like terms: -4x + 1250 = 1022.
+Step 9: Move the constant term to the other side: -4x = 1022 - 1250.
+Step 10: Simplify: -4x = -228.
+Step 11: Divide both sides by -4 to solve for x: x = -228 / -4.
+Step 12: Simplify: x = 57.
+Step 13: The number of student tickets sold is 57.",57
+Ana spent $4.06 buying stamps. The number of $0.41 stamps she bought was five more than the number of $0.26 stamps. How many $0.41 stamps did she buy?,"Step 1: Let's assume the number of $0.26 stamps Ana bought as x.
+Step 2: According to the problem, the number of $0.41 stamps Ana bought is five more than the number of $0.26 stamps. So, the number of $0.41 stamps can be represented as (x + 5).
+Step 3: The cost of each $0.26 stamp is $0.26, and the cost of each $0.41 stamp is $0.41. Therefore, the total cost of the $0.26 stamps is 0.26x, and the total cost of the $0.41 stamps is 0.41(x + 5).
+Step 4: The total cost of all the stamps Ana bought is $4.06. So, we can set up the equation 0.26x + 0.41(x + 5) = 4.06.
+Step 5: Simplify the equation by distributing 0.41 to (x + 5): 0.26x + 0.41x + 2.05 = 4.06.
+Step 6: Combine like terms: 0.67x + 2.05 = 4.06.
+Step 7: Subtract 2.05 from both sides of the equation: 0.67x = 2.01.
+Step 8: Divide both sides of the equation by 0.67 to solve for x: x = 2.01 / 0.67.
+Step 9: Calculate x: x ¡Ö 3.
+Step 10: Since x represents the number of $0.26 stamps, Ana bought 3 $0.26 stamps.
+Step 11: The number of $0.41 stamps is five more than the number of $0.26 stamps, so the number of $0.41 stamps Ana bought is (3 + 5) = 8.
+Therefore, Ana bought 8 $0.41 stamps.",8
+Marquese is making 10 pounds of trail mix from raisins and nuts. Raisins cost $3.45 per pound and nuts cost $7.95 per pound. How many pounds of raisins should Marquese use for the trail mix to cost him $6.96 per pound?,"Step 1: Determine the cost per pound of the trail mix by dividing the total cost by the total weight. In this case, the desired cost per pound is $6.96.
+Step 2: Let x represent the number of pounds of raisins used in the trail mix.
+Step 3: The cost of the raisins used is 3.45x dollars.
+Step 4: The cost of the nuts used is (10 - x) * 7.95 dollars, as Marquese is making 10 pounds of trail mix in total.
+Step 5: The total cost of the trail mix is the sum of the cost of raisins and the cost of nuts, which is 3.45x + (10 - x) * 7.95 dollars.
+Step 6: Set up an equation to find the value of x. The total cost of the trail mix divided by the total weight should equal the desired cost per pound: (3.45x + (10 - x) * 7.95) / 10 = 6.96.
+Step 7: Solve the equation for x to find the number of pounds of raisins needed for the trail mix to cost $6.96 per pound.",2.2
+"When Gabe drives from Sacramento to Redding it takes him 2.2 hours. It takes Elsa 2 hours to drive the same distance. Elsa¡¯s speed is seven miles per hour faster than Gabe¡¯s speed. Find Gabe¡¯s speed, in miles per hour.","Step 1: Let's assume Gabe's speed is x miles per hour.
+Step 2: Since Elsa's speed is seven miles per hour faster than Gabe's speed, Elsa's speed is (x + 7) miles per hour.
+Step 3: We know that time = distance / speed. Gabe's time is 2.2 hours and Elsa's time is 2 hours.
+Step 4: Using the formula, we can write the equation 2.2 = distance / x for Gabe and 2 = distance / (x + 7) for Elsa.
+Step 5: Multiply both sides of the equation for Gabe by x to get distance = 2.2x.
+Step 6: Multiply both sides of the equation for Elsa by (x + 7) to get distance = 2(x + 7).
+Step 7: Since the distances are the same, we can set the two equations equal to each other: 2.2x = 2(x + 7).
+Step 8: Solve the equation: 2.2x = 2x + 14.
+Step 9: Subtract 2x from both sides of the equation: 0.2x = 14.
+Step 10: Divide both sides of the equation by 0.2 to solve for x: x = 70.
+Step 11: Therefore, Gabe's speed is 70 miles per hour.",70
+"Two busses leave Amarillo at the same time. The Albuquerque bus heads west on the I-40 at a speed of 72 miles per hour, and the Oklahoma City bus heads east on the I-40 at a speed of 78 miles per hour. How many hours will it take them to be 375 miles apart?","Step 1: Identify the speeds of the two buses. The Albuquerque bus is traveling at a speed of 72 miles per hour, and the Oklahoma City bus is traveling at a speed of 78 miles per hour.
+Step 2: Understand that the buses are moving in opposite directions, so their speeds should be added together to determine the rate at which they are moving apart. The combined speed of the two buses is 72 miles per hour + 78 miles per hour = 150 miles per hour.
+Step 3: Determine the distance the buses need to travel to be 375 miles apart.
+Step 4: Use the formula distance = speed ¡Á time to find the time it will take for the buses to be 375 miles apart. Rearrange the formula to solve for time: time = distance / speed.
+Step 5: Substitute the values into the formula: time = 375 miles / 150 miles per hour.
+Step 6: Simplify the expression: time = 2.5 hours.
+Step 7: Therefore, it will take the two buses 2.5 hours to be 375 miles apart.",2.5
+Sondra is making 10 quarts of punch from fruit juice and club soda. The number of quarts of fruit juice is 4 times the number of quarts of club soda. How many quarts of fruit juice does Sondra need?,"Step 1: Let's assume the number of quarts of club soda as ""x"".
+Step 2: According to the problem, the number of quarts of fruit juice is 4 times the number of quarts of club soda. So, the number of quarts of fruit juice is 4x.
+Step 3: Since Sondra is making 10 quarts of punch, the total number of quarts of fruit juice and club soda is 10 quarts.
+Step 4: Therefore, the equation can be formed as 4x + x = 10.
+Step 5: Simplifying the equation, we get 5x = 10.
+Step 6: Dividing both sides of the equation by 5, we find x = 2.
+Step 7: Now, substituting the value of x in the equation 4x, we get 4 * 2 = 8.
+Step 8: Hence, Sondra needs 8 quarts of fruit juice.",8
+"Molly is making strawberry infused water. For each ounce of strawberry juice, she uses three times as many ounces of water. How many ounces of strawberry juice does she need to make 64 ounces of strawberry infused water?","Solution:
+Step 1: Identify the ratio of strawberry juice to water, which is 1:3. This means for every 1 ounce of strawberry juice, Molly uses 3 ounces of water.
+Step 2: Determine the total amount of liquid needed for the strawberry infused water, which is 64 ounces.
+Step 3: Divide the total amount of liquid by the sum of the ratio parts (1+3) to find the amount of strawberry juice needed. 64 ounces / (1+3) = 64 ounces / 4 = 16 ounces.
+Step 4: Molly needs 16 ounces of strawberry juice to make 64 ounces of strawberry infused water.",16
+"Enrique is making a party mix that contains raisins and nuts. For each ounce of nuts, he uses twice the amount of raisins. How many ounces of nuts does he need to make 24 ounces of party mix?","Solution:
+Step 1: Let's assume the amount of nuts needed for the party mix is ""x"" ounces.
+Step 2: According to the problem, for each ounce of nuts, Enrique uses twice the amount of raisins. So, the amount of raisins needed would be 2x ounces.
+Step 3: The total amount of party mix is given as 24 ounces.
+Step 4: To find the amount of nuts needed, we need to add the amount of nuts and raisins together. So, x + 2x = 24.
+Step 5: Simplifying the equation, we get 3x = 24.
+Step 6: Divide both sides of the equation by 3 to solve for x: x = 8.
+Step 7: Therefore, Enrique needs 8 ounces of nuts to make 24 ounces of party mix.",8
+"Leo is planning his spring flower garden. He wants to plant tulip and daffodil bulbs. He will plant 6 times as many daffodil bulbs as tulip bulbs. If he wants to plant 350 bulbs, how many tulip bulbs should he plant?","Step 1: Let's assume the number of tulip bulbs Leo will plant as ""x"".
+Step 2: According to the problem, Leo will plant 6 times as many daffodil bulbs as tulip bulbs. So, the number of daffodil bulbs he will plant is 6x.
+Step 3: The total number of bulbs Leo wants to plant is given as 350. Therefore, the equation can be written as x + 6x = 350.
+Step 4: Simplifying the equation, we get 7x = 350.
+Step 5: To find the value of x, we divide both sides of the equation by 7: x = 350/7.
+Step 6: Evaluating the expression, we find that x = 50.
+Step 7: Therefore, Leo should plant 50 tulip bulbs in his spring flower garden.",50
+The perimeter of a rectangle is 88. The length is five more than twice the width. Find the length.,"Step 1: Let's assume the width of the rectangle is ""w"" (in some unit of measurement).
+Step 2: According to the problem, the length of the rectangle is five more than twice the width, so the length can be represented as ""2w + 5"".
+Step 3: The perimeter of a rectangle is calculated by adding the lengths of all four sides. In this case, the perimeter is given as 88, so we can set up the equation: 2w + 2(2w + 5) = 88.
+Step 4: Simplify the equation by distributing the 2 to both terms inside the parentheses: 2w + 4w + 10 = 88.
+Step 5: Combine like terms: 6w + 10 = 88.
+Step 6: Subtract 10 from both sides of the equation: 6w = 78.
+Step 7: Divide both sides of the equation by 6 to solve for w: w = 13.
+Step 8: Now that we have the value of w, we can find the length by substituting it back into the expression for the length: length = 2w + 5 = 2(13) + 5 = 26 + 5 = 31.
+Step 9: Therefore, the length of the rectangle is 31 units.",31
+"Heather has been offered two options for her salary as a trainer at the gym. Option A would pay her $25,000 plus $15 for each training session. Option B would pay her $10,000 + $40 for each training session. How many training sessions would make the salary options equal?","Step 1: Identify the base salary for Option A, which is $25,000.
+Step 2: Identify the base salary for Option B, which is $10,000.
+Step 3: Identify the additional amount earned per training session for Option A, which is $15.
+Step 4: Identify the additional amount earned per training session for Option B, which is $40.
+Step 5: Set up an equation to represent the two salary options being equal: $25,000 + $15x = $10,000 + $40x, where x represents the number of training sessions.
+Step 6: Simplify the equation: $15x - $40x = $10,000 - $25,000.
+Step 7: Combine like terms: -$25x = -$15,000.
+Step 8: Divide both sides of the equation by -25 to solve for x: x = 600.
+Step 9: Interpret the solution: The two salary options would be equal if Heather had 600 training sessions.",600
+The perimeter of a rectangle is 84. The length is 10 more than three times the width. Find the length.,"Step 1: Let's assume the width of the rectangle is ""w"".
+Step 2: According to the problem, the length of the rectangle is 10 more than three times the width, so the length can be represented as ""3w + 10"".
+Step 3: The perimeter of a rectangle is calculated by adding the lengths of all four sides, which in this case is 2 times the length plus 2 times the width. So, the equation for the perimeter is 2(3w + 10) + 2w = 84.
+Step 4: Simplify the equation: 6w + 20 + 2w = 84.
+Step 5: Combine like terms: 8w + 20 = 84.
+Step 6: Subtract 20 from both sides: 8w = 64.
+Step 7: Divide both sides by 8: w = 8.
+Step 8: Now that we know the width is 8, we can find the length by substituting the value of ""w"" into the expression for the length: length = 3(8) + 10 = 34.
+Step 9: Therefore, the length of the rectangle is 34.",34
+"Jackie has been offered positions by two cable companies. The first company pays a salary of $ 14,000 plus a commission of $100 for each cable package sold. The second pays a salary of $20,000 plus a commission of $25 for each cable package sold. How many cable packages would need to be sold to make the total pay the same?","Step 1: Identify the salary and commission structure for the first company, which is a salary of $14,000 plus a commission of $100 for each cable package sold.
+Step 2: Identify the salary and commission structure for the second company, which is a salary of $20,000 plus a commission of $25 for each cable package sold.
+Step 3: Set up an equation to find the number of cable packages needed to make the total pay the same for both companies. Let's call this number ""x"".
+Step 4: For the first company, the total pay is $14,000 + $100x.
+Step 5: For the second company, the total pay is $20,000 + $25x.
+Step 6: Set up an equation to equate the total pay for both companies: $14,000 + $100x = $20,000 + $25x.
+Step 7: Simplify the equation by subtracting $25x from both sides: $14,000 + $75x = $20,000.
+Step 8: Subtract $14,000 from both sides: $75x = $6,000.
+Step 9: Divide both sides by $75 to solve for x: x = 80.
+Step 10: The number of cable packages that need to be sold to make the total pay the same for both companies is 80.",80
+"Mitchell currently sells stoves for company A at a salary of $12,000 plus a $150 commission for each stove he sells. Company B offers him a position with a salary of $24,000 plus a $50 commission for each stove he sells. How many stoves would Mitchell need to sell for the options to be equal?","Step 1: Identify Mitchell's current salary at company A, which is $12,000.
+Step 2: Determine the commission Mitchell receives for each stove sold at company A, which is $150.
+Step 3: Calculate Mitchell's total earnings at company A by adding his salary to the commission earned per stove sold.
+        Total earnings at company A = $12,000 + ($150 * number of stoves sold)
+Step 4: Identify Mitchell's salary at company B, which is $24,000.
+Step 5: Determine the commission Mitchell would receive for each stove sold at company B, which is $50.
+Step 6: Calculate Mitchell's total earnings at company B by adding his salary to the commission earned per stove sold.
+        Total earnings at company B = $24,000 + ($50 * number of stoves sold)
+Step 7: Set the total earnings at company A equal to the total earnings at company B and solve for the number of stoves sold.
+        $12,000 + ($150 * number of stoves sold) = $24,000 + ($50 * number of stoves sold)
+Step 8: Simplify the equation by combining like terms.
+        $150 * number of stoves sold - $50 * number of stoves sold = $24,000 - $12,000
+Step 9: Combine like terms on both sides of the equation.
+        $100 * number of stoves sold = $12,000
+Step 10: Solve for the number of stoves sold by dividing both sides of the equation by $100.
+        number of stoves sold = $12,000 / $100
+Step 11: Calculate the number of stoves Mitchell would need to sell for the options to be equal.
+        number of stoves sold = 120 stoves.",120
+"Joe stops at a burger restaurant every day on his way to work. Monday he had one order of medium fries and two small sodas, which had a total of 620 calories. Tuesday he had two orders of medium fries and one small soda, for a total of 820 calories. How many calories are there in one order of medium fries?","Step 1: Let's assume the number of calories in one order of medium fries is x.
+Step 2: On Monday, Joe had one order of medium fries and two small sodas, which had a total of 620 calories. So, the calories from the medium fries can be represented as x, and the calories from the two small sodas can be represented as 2y (where y is the number of calories in one small soda).
+Step 3: Therefore, the total calories on Monday can be expressed as x + 2y = 620.
+Step 4: On Tuesday, Joe had two orders of medium fries and one small soda, which had a total of 820 calories. So, the calories from the two orders of medium fries can be represented as 2x, and the calories from the small soda can be represented as z (where z is the number of calories in one small soda).
+Step 5: Therefore, the total calories on Tuesday can be expressed as 2x + z = 820.
+Step 6: We now have a system of equations:
+   x + 2y = 620   (from Step 3)
+   2x + z = 820   (from Step 5)
+Step 7: Solve the system of equations to find the values of x, y, and z.
+Step 8: Once the values of x, y, and z are found, the number of calories in one order of medium fries (x) can be determined.",340
+Andrea is buying some new shirts and sweaters. She is able to buy 3 shirts and 2 sweaters for $114 or she is able to buy 2 shirts and 4 sweaters for $164. How much does a shirt cost?,"Solution:
+Step 1: Let's assume the cost of a shirt is ""x"" dollars.
+Step 2: According to the given information, Andrea can buy 3 shirts and 2 sweaters for $114. So, the cost of 3 shirts would be 3x and the cost of 2 sweaters would be 2y.
+Step 3: Similarly, Andrea can buy 2 shirts and 4 sweaters for $164. So, the cost of 2 shirts would be 2x and the cost of 4 sweaters would be 4y.
+Step 4: Now we can set up a system of equations based on the given information:
+   3x + 2y = 114
+   2x + 4y = 164
+Step 5: Solve the system of equations to find the values of x and y.
+Step 6: Multiply the first equation by 2 and the second equation by 3 to eliminate the variable ""y"":
+   6x + 4y = 228
+   6x + 12y = 492
+Step 7: Subtract the first equation from the second equation to eliminate ""x"":
+   6x + 12y - (6x + 4y) = 492 - 228
+   8y = 264
+Step 8: Divide both sides of the equation by 8 to solve for ""y"":
+   y = 33
+Step 9: Substitute the value of ""y"" back into the first equation to solve for ""x"":
+   3x + 2(33) = 114
+   3x + 66 = 114
+   3x = 48
+   x = 16
+Step 10: Therefore, the cost of a shirt is $16.",16
+"The total amount of sodium in 2 hot dogs and 3 cups of cottage cheese is 4720 mg. The total amount of sodium in 5 hot dogs and 2 cups of cottage cheese is 6300 mg. How much sodium is in a hot dog, in mg?","Step 1: Let's assume the amount of sodium in a hot dog is ""x"" mg.
+Step 2: The total amount of sodium in 2 hot dogs and 3 cups of cottage cheese is 4720 mg, so we can write the equation: 2x + 3(0) = 4720.
+Step 3: Simplify the equation: 2x = 4720.
+Step 4: Divide both sides of the equation by 2 to solve for x: x = 2360.
+Step 5: Therefore, there is 2360 mg of sodium in a hot dog.",860
+Devon is 26 years older than his son Cooper. The sum of their ages is 50. Find Devon's age.,"Step 1: Let's assume Cooper's age as x.
+Step 2: Since Devon is 26 years older than Cooper, Devon's age can be represented as x + 26.
+Step 3: The sum of their ages is 50, so we can write the equation as x + (x + 26) = 50.
+Step 4: Simplify the equation: 2x + 26 = 50.
+Step 5: Subtract 26 from both sides of the equation: 2x = 24.
+Step 6: Divide both sides of the equation by 2: x = 12.
+Step 7: Cooper's age is 12, so Devon's age is x + 26 = 12 + 26 = 38.
+Step 8: Therefore, Devon's age is 38.",38
+"When Jenna spent 10 minutes on the elliptical trainer and then did circuit training for 20 minutes, her fitness app says she burned 278 calories. When she spent 20 minutes on the elliptical trainer and 30 minutes circuit training she burned 473 calories. How many calories does she burn for each minute on the elliptical trainer?","Step 1: Let's assume that Jenna burns x calories per minute on the elliptical trainer.
+Step 2: According to the information given, Jenna spent 10 minutes on the elliptical trainer and burned 10x calories.
+Step 3: Jenna also did circuit training for 20 minutes and burned an additional 20 calories.
+Step 4: Therefore, the total calories burned during this session is 10x + 20.
+Step 5: According to the fitness app, Jenna burned 278 calories in total during this session.
+Step 6: Set up an equation: 10x + 20 = 278.
+Step 7: Solve the equation: 10x = 278 - 20 = 258.
+Step 8: Divide both sides of the equation by 10: x = 258/10 = 25.8.
+Step 9: Jenna burns approximately 25.8 calories per minute on the elliptical trainer.",11.2
+"Joni left St. Louis on the interstate, driving west towards Denver at a speed of 65 miles per hour. Half an hour later, Kelly left St. Louis on the same route as Joni, driving 78 miles per hour. How many hours will it take Kelly to catch up to Joni?","Solution:
+Step 1: Determine the initial distance between Joni and Kelly when Kelly starts driving. Since Joni has already been driving for half an hour at a speed of 65 miles per hour, the initial distance between them is (65 miles/hour) * (0.5 hour) = 32.5 miles.
+Step 2: Calculate the relative speed between Joni and Kelly. The relative speed is the difference between their speeds, which is (78 miles/hour) - (65 miles/hour) = 13 miles/hour.
+Step 3: Divide the initial distance by the relative speed to find the time it will take for Kelly to catch up to Joni. The time is (32.5 miles) / (13 miles/hour) = 2.5 hours.
+Step 4: Therefore, it will take Kelly 2.5 hours to catch up to Joni.",2.5
+"A river cruise ship sailed 60 miles downstream for 4 hours and then took 5 hours sailing upstream to return to the dock. Find the speed of the ship in still water, in miles per hour.","Step 1: Let's assume the speed of the ship in still water is ""x"" miles per hour.
+Step 2: When the ship is sailing downstream, it benefits from the current, so its effective speed is increased by the speed of the current. Therefore, the speed downstream is (x + c) miles per hour, where ""c"" represents the speed of the current.
+Step 3: The ship sailed 60 miles downstream for 4 hours, so we can set up the equation: distance = speed ¡Á time. Therefore, 60 = (x + c) ¡Á 4.
+Step 4: When the ship is sailing upstream, it has to overcome the current, so its effective speed is decreased by the speed of the current. Therefore, the speed upstream is (x - c) miles per hour.
+Step 5: The ship took 5 hours sailing upstream, so we can set up the equation: distance = speed ¡Á time. Therefore, 60 = (x - c) ¡Á 5.
+Step 6: We now have a system of equations:
+   - 60 = (x + c) ¡Á 4
+   - 60 = (x - c) ¡Á 5
+Step 7: Solve the system of equations to find the values of ""x"" and ""c"".
+Step 8: Once we have the values of ""x"" and ""c"", we can determine the speed of the ship in still water by substituting the value of ""c"" into either equation.",13.5
+"A private jet can fly 1095 miles in three hours with a tailwind but only 987 miles in three hours into a headwind. Find the speed of the jet in still air, in miles per hour.","Step 1: Let's assume the speed of the jet in still air as ""x"" miles per hour.
+Step 2: With a tailwind, the jet can fly 1095 miles in three hours. So, the effective speed of the jet with the tailwind is (x + w) miles per hour, where ""w"" represents the speed of the tailwind.
+Step 3: Using the formula distance = speed ¡Á time, we can write the equation 1095 = (x + w) ¡Á 3.
+Step 4: Similarly, with a headwind, the jet can only fly 987 miles in three hours. So, the effective speed of the jet with the headwind is (x - w) miles per hour.
+Step 5: Using the formula distance = speed ¡Á time, we can write the equation 987 = (x - w) ¡Á 3.
+Step 6: Simplify equations 3 and 5 to get 3x + 3w = 1095 and 3x - 3w = 987.
+Step 7: Add equations 3 and 5 to eliminate ""w"" and solve for ""x"". (3x + 3w) + (3x - 3w) = 1095 + 987.
+Step 8: Simplify the equation to get 6x = 2082.
+Step 9: Divide both sides of the equation by 6 to solve for ""x"". x = 2082 / 6.
+Step 10: Calculate the value of ""x"". x ¡Ö 347.
+Step 11: Therefore, the speed of the jet in still air is approximately 347 miles per hour.",347
+"A married couple together earn $75,000. The husband earns $15,000 more than five times what his wife earns. What does the wife earn?","Step 1: Let's assume the amount of money the wife earns as ""x"" dollars.
+Step 2: According to the problem, the husband earns $15,000 more than five times what his wife earns. So, the husband earns 5x + $15,000.
+Step 3: The total earnings of the couple is $75,000. Therefore, we can write the equation: x + (5x + $15,000) = $75,000.
+Step 4: Simplify the equation: 6x + $15,000 = $75,000.
+Step 5: Subtract $15,000 from both sides of the equation: 6x = $60,000.
+Step 6: Divide both sides of the equation by 6: x = $10,000.
+Step 7: The wife earns $10,000.",10000
+"Daniela invested a total of $50,000, some in a certificate of deposit (CD) and the remainder in bonds. The amount invested in bonds was $5000 more than twice the amount she put into the CD. How much did she invest in the CD?","Step 1: Let's assume the amount invested in the CD is x dollars.
+Step 2: According to the problem, the amount invested in bonds is $5000 more than twice the amount invested in the CD. So, the amount invested in bonds is 2x + $5000.
+Step 3: The total amount invested is the sum of the amount invested in the CD and the amount invested in bonds, which is x + (2x + $5000).
+Step 4: The total amount invested is given as $50,000, so we can set up the equation x + (2x + $5000) = $50,000.
+Step 5: Simplify the equation by combining like terms: 3x + $5000 = $50,000.
+Step 6: Subtract $5000 from both sides of the equation to isolate the variable: 3x = $45,000.
+Step 7: Divide both sides of the equation by 3 to solve for x: x = $15,000.
+Step 8: Therefore, Daniela invested $15,000 in the CD.",15000
+"In her last two years in college, Marlene received $42,000 in loans. The first year she received a loan that was $6,000 less than three times the amount of the second year¡¯s loan. What was the amount of her loan for the first year?","Step 1: Let's assume the amount of Marlene's loan for the second year is represented by ""x"".
+Step 2: According to the problem, the first year's loan was $6,000 less than three times the amount of the second year's loan. So, the first year's loan can be represented as 3x - $6,000.
+Step 3: The total amount of loans received by Marlene in her last two years in college is $42,000. Therefore, we can set up the equation: (3x - $6,000) + x = $42,000.
+Step 4: Simplify the equation: 4x - $6,000 = $42,000.
+Step 5: Add $6,000 to both sides of the equation: 4x = $48,000.
+Step 6: Divide both sides of the equation by 4 to solve for x: x = $12,000.
+Step 7: Substitute the value of x back into the expression for the first year's loan: 3x - $6,000 = 3($12,000) - $6,000.
+Step 8: Simplify the expression: 3($12,000) - $6,000 = $36,000 - $6,000 = $30,000.
+Step 9: Therefore, the amount of Marlene's loan for the first year was $30,000.",30000
+"Alyssa is twelve years older than her sister, Bethany. The sum of their ages is forty-four. Find Alyssa's age.","Step 1: Let's assume Alyssa's age as x.
+Step 2: Since Alyssa is twelve years older than her sister Bethany, Bethany's age can be represented as (x - 12).
+Step 3: The sum of their ages is forty-four, so we can write the equation x + (x - 12) = 44.
+Step 4: Simplify the equation by combining like terms: 2x - 12 = 44.
+Step 5: Add 12 to both sides of the equation to isolate the variable: 2x = 56.
+Step 6: Divide both sides of the equation by 2 to solve for x: x = 28.
+Step 7: Therefore, Alyssa's age is 28.",28
+The age of Noelle¡¯s dad is six less than three times Noelle¡¯s age. The sum of their ages is seventy-four. Find Noelle¡¯s dad's age.,"Step 1: Let's assume Noelle's age as ""x"".
+Step 2: According to the problem, Noelle's dad's age is six less than three times Noelle's age, which can be expressed as 3x - 6.
+Step 3: The sum of their ages is seventy-four, so we can write the equation as x + (3x - 6) = 74.
+Step 4: Simplify the equation by combining like terms: 4x - 6 = 74.
+Step 5: Add 6 to both sides of the equation to isolate the variable: 4x = 80.
+Step 6: Divide both sides of the equation by 4 to solve for x: x = 20.
+Step 7: Now substitute the value of x back into the expression for Noelle's dad's age: 3x - 6 = 3(20) - 6 = 60 - 6 = 54.
+Step 8: Therefore, Noelle's dad's age is 54.",54
+Two containers of gasoline hold a total of fifty gallons. The big container can hold ten gallons less than twice the small container. How many gallons does the big container hold?,"Step 1: Let's assume the amount of gasoline in the small container is represented by ""x"" gallons.
+Step 2: According to the problem, the big container can hold ten gallons less than twice the small container. So, the amount of gasoline in the big container is (2x - 10) gallons.
+Step 3: The total amount of gasoline in both containers is fifty gallons. Therefore, we can write the equation: x + (2x - 10) = 50.
+Step 4: Simplify the equation: 3x - 10 = 50.
+Step 5: Add 10 to both sides of the equation: 3x = 60.
+Step 6: Divide both sides of the equation by 3: x = 20.
+Step 7: Substitute the value of x back into the expression for the big container: 2x - 10 = 2(20) - 10 = 40 - 10 = 30.
+Step 8: Therefore, the big container holds 30 gallons of gasoline.",30
+"Shelly spent 10 minutes jogging and 20 minutes cycling and burned 300 calories. The next day, Shelly swapped times, doing 20 minutes of jogging and 10 minutes of cycling and burned the same number of calories. How many calories were burned for each minute of jogging?","Solution:
+Step 1: Let's assume that the number of calories burned per minute of jogging is x.
+Step 2: Calculate the total number of calories burned during the first day by multiplying the time spent jogging (10 minutes) by the calories burned per minute of jogging (x), and adding it to the total number of calories burned during cycling (20 minutes * y calories per minute of cycling).
+Step 3: Set up the equation: 10x + 20y = 300.
+Step 4: Calculate the total number of calories burned during the second day by multiplying the time spent jogging (20 minutes) by the calories burned per minute of jogging (x), and adding it to the total number of calories burned during cycling (10 minutes * y calories per minute of cycling).
+Step 5: Set up the equation: 20x + 10y = 300.
+Step 6: Solve the system of equations (Step 3 and Step 5) to find the values of x and y.
+Step 7: Substitute the values of x and y back into either equation to find the number of calories burned per minute of jogging.",10
+Troy and Lisa were shopping for school supplies. Each purchased different quantities of the same notebook and thumb drive. Troy bought four notebooks and five thumb drives for $116. Lisa bought two notebooks and three thumb dives for $68. Find the cost of each notebook.,"Step 1: Let's assume the cost of each notebook is ""x"" dollars.
+Step 2: Since Troy bought four notebooks, the total cost of the notebooks for Troy is 4x dollars.
+Step 3: Similarly, since Lisa bought two notebooks, the total cost of the notebooks for Lisa is 2x dollars.
+Step 4: Let's assume the cost of each thumb drive is ""y"" dollars.
+Step 5: Since Troy bought five thumb drives, the total cost of the thumb drives for Troy is 5y dollars.
+Step 6: Similarly, since Lisa bought three thumb drives, the total cost of the thumb drives for Lisa is 3y dollars.
+Step 7: According to the problem, the total cost of notebooks and thumb drives for Troy is $116, so we can write the equation: 4x + 5y = 116.
+Step 8: Similarly, the total cost of notebooks and thumb drives for Lisa is $68, so we can write the equation: 2x + 3y = 68.
+Step 9: Now we have a system of equations:
+   4x + 5y = 116
+   2x + 3y = 68
+Step 10: We can solve this system of equations to find the values of x and y, which represent the cost of each notebook and thumb drive, respectively.",4
+"Sarah left Minneapolis heading east on the interstate at a speed of 60 mph. Her sister followed her on the same route, leaving two hours later and driving at a rate of 70 mph. How many hours will it take for Sarah¡¯s sister to catch up to Sarah?","Solution:
+Step 1: Determine the speed at which Sarah is traveling, which is 60 mph.
+Step 2: Determine the speed at which Sarah's sister is traveling, which is 70 mph.
+Step 3: Calculate the time difference between Sarah and her sister, which is 2 hours.
+Step 4: Set up the equation d = rt, where d represents the distance traveled, r represents the rate or speed, and t represents the time.
+Step 5: Let t be the time it takes for Sarah's sister to catch up to Sarah.
+Step 6: Since Sarah has a head start of 2 hours, the distance traveled by Sarah's sister is 70t, while the distance traveled by Sarah is 60(t + 2).
+Step 7: Set up the equation 70t = 60(t + 2) to represent the distances traveled by Sarah's sister and Sarah.
+Step 8: Solve the equation for t to find the time it takes for Sarah's sister to catch up to Sarah.",12
+"At the end of spring break, Lucy left the beach and drove back towards home, driving at a rate of 40 mph. Lucy¡¯s friend left the beach for home 30 minutes (half an hour) later, and drove 50 mph. How many hours did it take Lucy¡¯s friend to catch up to Lucy?","Step 1: Convert the 30 minutes delay of Lucy's friend into hours by dividing it by 60. So, the delay is 30/60 = 0.5 hours.
+Step 2: Determine the head start distance of Lucy by multiplying her driving rate of 40 mph by the delay of 0.5 hours. So, the head start distance is 40 mph * 0.5 hours = 20 miles.
+Step 3: Set up a distance equation to represent the situation, where x represents the time it takes for Lucy's friend to catch up to Lucy. The equation is: Distance traveled by Lucy's friend = Distance traveled by Lucy + Head start distance.
+Step 4: Substitute the values into the equation: 50 mph * x hours = 40 mph * x hours + 20 miles.
+Step 5: Simplify the equation: 50x = 40x + 20.
+Step 6: Subtract 40x from both sides of the equation: 10x = 20.
+Step 7: Divide both sides of the equation by 10: x = 2.
+Step 8: The time it takes for Lucy's friend to catch up to Lucy is 2 hours.",2
+"The Jones family took a 12 mile canoe ride down the Indian River in two hours. After lunch, the return trip back up the river took three hours. Find the rate of the canoe in still water, in miles per hour.","Step 1: Identify the distance traveled by the Jones family during the canoe ride, which is 12 miles.
+Step 2: Determine the total time taken for the canoe ride, which is 2 hours for the downstream trip and 3 hours for the upstream trip, resulting in a total of 5 hours.
+Step 3: Understand that the rate of the canoe in still water can be represented by the variable ""r"" (miles per hour).
+Step 4: Use the formula: Distance = Rate ¡Á Time to find the rate of the canoe in still water.
+Step 5: For the downstream trip, the distance is 12 miles and the time is 2 hours, so the equation becomes 12 = r ¡Á 2.
+Step 6: Solve the equation from Step 5 for ""r"" by dividing both sides by 2: r = 12/2 = 6 miles per hour.
+Step 7: For the upstream trip, the distance is 12 miles and the time is 3 hours, so the equation becomes 12 = r ¡Á 3.
+Step 8: Solve the equation from Step 7 for ""r"" by dividing both sides by 3: r = 12/3 = 4 miles per hour.
+Step 9: Understand that the rate of the canoe in still water is the average of the downstream and upstream rates.
+Step 10: Calculate the average rate by adding the downstream rate (6 miles per hour) and the upstream rate (4 miles per hour) and dividing by 2: (6 + 4)/2 = 10/2 = 5 miles per hour.
+Step 11: The rate of the canoe in still water is 5 miles per hour.",5
+"A motor boat traveled 18 miles down a river in two hours but going back upstream, it took 4.5 hours due to the current. Find the rate of the motor boat in still water, in miles per hour.","Step 1: Let's assume the rate of the motor boat in still water is ""x"" miles per hour.
+Step 2: When the motor boat is traveling downstream, it benefits from the current, so its effective speed is increased. Therefore, the speed downstream is (x + c) miles per hour, where ""c"" represents the speed of the current.
+Step 3: We know that the motor boat traveled 18 miles downstream in 2 hours, so we can set up the equation: distance = speed ¡Á time. Therefore, 18 = (x + c) ¡Á 2.
+Step 4: When the motor boat is traveling upstream, it has to overcome the current, so its effective speed is decreased. Therefore, the speed upstream is (x - c) miles per hour.
+Step 5: We know that the motor boat traveled 18 miles upstream in 4.5 hours, so we can set up the equation: distance = speed ¡Á time. Therefore, 18 = (x - c) ¡Á 4.5.
+Step 6: Now we have a system of two equations with two variables. We can solve this system to find the values of ""x"" and ""c"".
+Step 7: Simplify the equations: 2x + 2c = 18 and 4.5x - 4.5c = 18.
+Step 8: Multiply the second equation by 2 to eliminate the decimals: 9x - 9c = 36.
+Step 9: Add the two equations together to eliminate ""c"": 2x + 2c + 9x - 9c = 18 + 36.
+Step 10: Simplify the equation: 11x = 54.
+Step 11: Divide both sides of the equation by 11 to solve for ""x"": x = 54/11.
+Step 12: Simplify the fraction: x ¡Ö 4.909.
+Step 13: Therefore, the rate of the motor boat in still water is approximately 4.909 miles per hour.",6.5
+"A small jet can fly 1,072 miles in 4 hours with a tailwind but only 848 miles in 4 hours into a headwind. Find the speed of the jet in still air, in miles per hour.","Step 1: Let's assume the speed of the jet in still air is ""x"" miles per hour.
+Step 2: With a tailwind, the jet can fly 1,072 miles in 4 hours. This means the effective speed of the jet with the tailwind is (x + w), where ""w"" represents the speed of the tailwind.
+Step 3: Using the formula distance = speed ¡Á time, we can write the equation 1,072 = (x + w) ¡Á 4.
+Step 4: With a headwind, the jet can only fly 848 miles in 4 hours. This means the effective speed of the jet against the headwind is (x - w).
+Step 5: Using the formula distance = speed ¡Á time, we can write the equation 848 = (x - w) ¡Á 4.
+Step 6: Simplify the equations: 
+    - Equation 1: 1,072 = 4x + 4w
+    - Equation 2: 848 = 4x - 4w
+Step 7: Add the two equations together to eliminate the variable ""w"": 
+    - 1,072 + 848 = 4x + 4w + 4x - 4w
+    - 1,920 = 8x
+Step 8: Divide both sides of the equation by 8 to solve for ""x"": 
+    - x = 1,920 / 8
+    - x = 240
+Step 9: The speed of the jet in still air is 240 miles per hour.",240
+"A commercial jet can fly 868 miles in 2 hours with a tailwind but only 792 miles in 2 hours into a headwind. Find the speed of the jet in still air, in miles per hour.","Step 1: Let's assume the speed of the jet in still air is ""x"" miles per hour.
+Step 2: With a tailwind, the jet can fly 868 miles in 2 hours. This means the effective speed of the jet with the tailwind is (x + w) miles per hour, where ""w"" is the speed of the tailwind.
+Step 3: Using the formula distance = speed ¡Á time, we can write the equation 868 = (x + w) ¡Á 2.
+Step 4: Simplifying the equation, we get 868 = 2x + 2w.
+Step 5: With a headwind, the jet can only fly 792 miles in 2 hours. This means the effective speed of the jet with the headwind is (x - w) miles per hour.
+Step 6: Using the formula distance = speed ¡Á time, we can write the equation 792 = (x - w) ¡Á 2.
+Step 7: Simplifying the equation, we get 792 = 2x - 2w.
+Step 8: Now we have a system of equations:
+   868 = 2x + 2w
+   792 = 2x - 2w
+Step 9: Solve the system of equations to find the values of ""x"" and ""w"".
+Step 10: Add the two equations together to eliminate ""w"". We get 1660 = 4x.
+Step 11: Divide both sides of the equation by 4 to solve for ""x"". We get x = 415.
+Step 12: Substitute the value of ""x"" back into one of the original equations to solve for ""w"". Let's use the first equation: 868 = 2(415) + 2w.
+Step 13: Simplify the equation: 868 = 830 + 2w.
+Step 14: Subtract 830 from both sides of the equation: 38 = 2w.
+Step 15: Divide both sides of the equation by 2 to solve for ""w"". We get w = 19.
+Step 16: The speed of the jet in still air is 415 miles per hour.",415
+"The box office at a movie theater sold 147 tickets for the evening show, and receipts totaled $1,302. A child ticket costs $8, and an adult ticket costs $11. How many $11 adult tickets were sold?","Step 1: Identify the number of tickets sold for the evening show, which is 147 tickets.
+Step 2: Understand that the total receipts from the ticket sales were $1,302.
+Step 3: Let's assume the number of child tickets sold as 'c' and the number of adult tickets sold as 'a'.
+Step 4: Write the equation for the total number of tickets sold: c + a = 147.
+Step 5: Write the equation for the total receipts: 8c + 11a = 1,302.
+Step 6: Solve the system of equations formed by Step 4 and Step 5 to find the values of 'c' and 'a'.
+Step 7: Substitute the value of 'c' or 'a' into the equation c + a = 147 to find the value of the other variable.
+Step 8: The value of 'a' represents the number of $11 adult tickets sold.",42
+Carson wants to make 20 pounds of trail mix using nuts and chocolate chips. His budget requires that the trail mix costs him $7.60 per pound. Nuts cost $9.00 per pound and chocolate chips cost $2.00 per pound. How many pounds of nuts should he use?,"Step 1: Determine the cost per pound of the trail mix, which is $7.60.
+Step 2: Identify the cost per pound of nuts, which is $9.00.
+Step 3: Determine the cost per pound of chocolate chips, which is $2.00.
+Step 4: Let the number of pounds of nuts be represented by ""x"".
+Step 5: Calculate the cost of nuts by multiplying the cost per pound ($9.00) by the number of pounds (x).
+Step 6: Calculate the cost of chocolate chips by multiplying the cost per pound ($2.00) by the remaining weight of the trail mix (20 - x) pounds.
+Step 7: Set up an equation to represent the total cost of the trail mix: (cost of nuts) + (cost of chocolate chips) = (total cost of trail mix).
+Step 8: Substitute the calculated values into the equation: ($9.00 * x) + ($2.00 * (20 - x)) = ($7.60 * 20).
+Step 9: Simplify the equation: 9x + 2(20 - x) = 152.
+Step 10: Distribute and combine like terms: 9x + 40 - 2x = 152.
+Step 11: Simplify the equation further: 7x + 40 = 152.
+Step 12: Subtract 40 from both sides of the equation: 7x = 112.
+Step 13: Divide both sides of the equation by 7 to solve for x: x = 16.
+Step 14: The number of pounds of nuts Carson should use is 16 pounds.",16
+"Tickets to a Broadway show cost $35 for adults and $15 for children. The total receipts for 1650 tickets at one performance were $47,150. How many adult tickets were sold?","Step 1: Identify the cost of an adult ticket, which is $35.
+Step 2: Identify the cost of a child ticket, which is $15.
+Step 3: Let's assume the number of adult tickets sold is ""x"".
+Step 4: The number of child tickets sold can be calculated as 1650 - x, since the total number of tickets sold is 1650.
+Step 5: Calculate the total revenue from adult tickets by multiplying the number of adult tickets (x) by the cost of an adult ticket ($35).
+Step 6: Calculate the total revenue from child tickets by multiplying the number of child tickets (1650 - x) by the cost of a child ticket ($15).
+Step 7: Set up an equation to represent the total revenue from both types of tickets: Total revenue = Revenue from adult tickets + Revenue from child tickets.
+Step 8: Substitute the calculated values into the equation: $47,150 = (35x) + (15(1650 - x)).
+Step 9: Simplify the equation: $47,150 = 35x + 24,750 - 15x.
+Step 10: Combine like terms: $47,150 = 20x + 24,750.
+Step 11: Subtract 24,750 from both sides of the equation: $47,150 - $24,750 = 20x.
+Step 12: Simplify: $22,400 = 20x.
+Step 13: Divide both sides of the equation by 20: $22,400 / 20 = x.
+Step 14: Calculate: x = 1120.
+Step 15: The number of adult tickets sold is 1120.",1120
+"Tickets for a train cost $10 for children and $22 for adults. Josie paid $1,200 for a total of 72 tickets. How many children¡¯s tickets did Josie buy?","Solution:
+Step 1: Identify the cost of a child's ticket, which is $10.
+Step 2: Identify the cost of an adult's ticket, which is $22.
+Step 3: Understand that Josie paid a total of $1,200 for 72 tickets.
+Step 4: Let's assume that Josie bought x children's tickets.
+Step 5: Calculate the cost of the children's tickets by multiplying the number of children's tickets (x) by the cost of a child's ticket ($10).
+Step 6: Calculate the cost of the adult's tickets by subtracting the cost of the children's tickets from the total amount paid by Josie ($1,200 - cost of children's tickets).
+Step 7: Calculate the number of adult's tickets by dividing the cost of the adult's tickets by the cost of an adult's ticket ($22).
+Step 8: Set up an equation to represent the total number of tickets: x (number of children's tickets) + number of adult's tickets = 72.
+Step 9: Solve the equation to find the value of x (number of children's tickets).
+Step 10: The value of x represents the number of children's tickets that Josie bought.",32
+"Tickets for a dance recital cost $15 for adults and $7 for children. The dance company sold 253 tickets and the total receipts were $2,771. How many adult tickets were sold?","Step 1: Let's assume the number of adult tickets sold is ""x"".
+Step 2: The number of children tickets sold can be calculated as 253 - x, since the total number of tickets sold is 253.
+Step 3: The total revenue from adult tickets can be calculated as 15x, since each adult ticket costs $15.
+Step 4: The total revenue from children tickets can be calculated as 7(253 - x), since each children ticket costs $7.
+Step 5: The total revenue from all tickets can be calculated as 2771, since the total receipts were $2,771.
+Step 6: Set up the equation: 15x + 7(253 - x) = 2771.
+Step 7: Simplify the equation: 15x + 1771 - 7x = 2771.
+Step 8: Combine like terms: 8x + 1771 = 2771.
+Step 9: Subtract 1771 from both sides: 8x = 1000.
+Step 10: Divide both sides by 8: x = 125.
+Step 11: Therefore, 125 adult tickets were sold.",125
+"A cashier has 30 bills, all of which are $10 or $20 bills. The total value of the money is $460. How many of the  $10 bill does the cashier have?","Step 1: Let's assume the number of $10 bills the cashier has is x.
+Step 2: Since the cashier has 30 bills in total, the number of $20 bills can be calculated as 30 - x.
+Step 3: The value of x $10 bills is 10x, and the value of (30 - x) $20 bills is 20(30 - x).
+Step 4: The total value of the money is $460, so we can set up the equation 10x + 20(30 - x) = 460.
+Step 5: Simplify the equation: 10x + 600 - 20x = 460.
+Step 6: Combine like terms: -10x + 600 = 460.
+Step 7: Move 600 to the other side of the equation: -10x = 460 - 600.
+Step 8: Simplify: -10x = -140.
+Step 9: Divide both sides of the equation by -10: x = -140 / -10.
+Step 10: Calculate: x = 14.
+Step 11: The cashier has 14 $10 bills.",14
+Hannah has to make twenty-five gallons of punch for a potluck. The punch is made of soda and fruit drink. The cost of the soda is $1.79 per gallon and the cost of the fruit drink is $2.49 per gallon. Hannah¡¯s budget requires that the punch cost $2.21 per gallon. How many gallons of soda does she need?,"Step 1: Determine the total cost of the punch based on Hannah's budget, which is $2.21 per gallon.
+Step 2: Calculate the cost difference between the soda and the fruit drink, which is $2.49 - $1.79 = $0.70 per gallon.
+Step 3: Set up an equation to represent the cost per gallon of the punch: 
+   (cost of soda * gallons of soda + cost of fruit drink * gallons of fruit drink) / total gallons of punch = $2.21
+Step 4: Substitute the given values into the equation: 
+   ($1.79 * gallons of soda + $2.49 * gallons of fruit drink) / 25 = $2.21
+Step 5: Simplify the equation by multiplying both sides by 25 to eliminate the denominator: 
+   $1.79 * gallons of soda + $2.49 * gallons of fruit drink = $2.21 * 25
+Step 6: Rearrange the equation to solve for the gallons of soda: 
+   gallons of soda = ($2.21 * 25 - $2.49 * gallons of fruit drink) / $1.79",10
+Julia and her husband own a coffee shop. They experimented with mixing a City Roast Columbian coffee that cost $7.80 per pound with French Roast Columbian coffee that cost $8.10 per pound to make a 20 pound blend. Their blend should cost them $7.92 per pound. How much of City Roast Columbian coffee should they buy?,"Step 1: Let's assume the amount of City Roast Columbian coffee to be bought is x pounds.
+Step 2: The cost of City Roast Columbian coffee per pound is $7.80.
+Step 3: The amount of French Roast Columbian coffee to be bought is (20 - x) pounds, as the total blend is 20 pounds.
+Step 4: The cost of French Roast Columbian coffee per pound is $8.10.
+Step 5: The total cost of the City Roast Columbian coffee is x pounds * $7.80 per pound = $7.80x.
+Step 6: The total cost of the French Roast Columbian coffee is (20 - x) pounds * $8.10 per pound = $8.10(20 - x).
+Step 7: The total cost of the blend is the sum of the costs of the City Roast Columbian coffee and the French Roast Columbian coffee, which is $7.92 per pound * 20 pounds = $158.40.
+Step 8: Set up the equation: $7.80x + $8.10(20 - x) = $158.40.
+Step 9: Simplify the equation: $7.80x + $162 - $8.10x = $158.40.
+Step 10: Combine like terms: -$0.30x + $162 = $158.40.
+Step 11: Subtract $162 from both sides: -$0.30x = -$3.60.
+Step 12: Divide both sides by -$0.30 to solve for x: x = 12.
+Step 13: Julia and her husband should buy 12 pounds of City Roast Columbian coffee.",12
+Jotham needs 70 liters of a 50% alcohol solution. He has a 30% and an 80% solution available. How many liters of the 30% solution should he mix to make the 50% solution?,"Step 1: Identify the amount of the desired 50% alcohol solution needed, which is 70 liters.
+Step 2: Let x represent the amount of the 30% solution to be mixed.
+Step 3: The remaining amount of the 50% solution needed is 70 - x liters.
+Step 4: Calculate the amount of alcohol in the 30% solution, which is 0.3x liters.
+Step 5: Calculate the amount of alcohol in the 80% solution, which is 0.8(70 - x) liters.
+Step 6: Set up the equation: 0.3x + 0.8(70 - x) = 0.5(70).
+Step 7: Solve the equation for x.
+Step 8: The value of x represents the amount of the 30% solution that Jotham should mix to make the 50% solution.",42
+A scientist needs 65 liters of a 15% alcohol solution. She has available a 25% and a 12% solution. How many liters of the 25% solution should she mix to make the 15% solution?,"Step 1: Identify the desired amount of the 15% alcohol solution, which is 65 liters.
+Step 2: Let x represent the amount of the 25% solution to be mixed.
+Step 3: Determine the amount of the 12% solution needed by subtracting x from the total desired amount: 65 - x.
+Step 4: Calculate the amount of alcohol in the 25% solution by multiplying x by 0.25.
+Step 5: Calculate the amount of alcohol in the 12% solution by multiplying (65 - x) by 0.12.
+Step 6: Set up an equation to represent the total amount of alcohol in the mixture: 0.25x + 0.12(65 - x) = 0.15(65).
+Step 7: Solve the equation for x to find the amount of the 25% solution needed.
+Step 8: Substitute the value of x into the equation to find the amount of the 12% solution needed.
+Step 9: Verify that the total amount of the mixture is 65 liters.",15
+A 40% antifreeze solution is to be mixed with a 70% antifreeze solution to get 240 liters of a 50% solution. How many liters of the 40% solution will be used?,"Step 1: Let x be the number of liters of the 40% antifreeze solution to be used.
+Step 2: The total volume of the mixture is 240 liters.
+Step 3: The 40% antifreeze solution contains 0.4x liters of antifreeze.
+Step 4: The 70% antifreeze solution contains 0.7(240 - x) liters of antifreeze.
+Step 5: The total amount of antifreeze in the mixture is 0.5(240) = 120 liters.
+Step 6: Set up the equation: 0.4x + 0.7(240 - x) = 120.
+Step 7: Solve the equation: 0.4x + 168 - 0.7x = 120.
+Step 8: Simplify the equation: -0.3x = -48.
+Step 9: Divide both sides of the equation by -0.3: x = 160.
+Step 10: Therefore, 160 liters of the 40% antifreeze solution will be used.",160
+"Laurie was completing the treasurer¡¯s report for her son¡¯s Boy Scout troop at the end of the school year. She didn¡¯t remember how many boys had paid the $15 full-year registration fee and how many had paid the $10 partial-year fee. She knew that the number of boys who paid for a full-year was ten more than the number who paid for a partial-year. If $250 was collected for all the registrations, how many boys had paid the full-year fee?","Step 1: Let's assume the number of boys who paid for a partial-year fee as x.
+Step 2: According to the problem, the number of boys who paid for a full-year fee is ten more than the number who paid for a partial-year fee. So, the number of boys who paid for a full-year fee is x + 10.
+Step 3: The registration fee for a full-year is $15, and the registration fee for a partial-year is $10. Therefore, the total amount collected from the full-year registrations is (x + 10) * $15.
+Step 4: The total amount collected from the partial-year registrations is x * $10.
+Step 5: The total amount collected for all the registrations is given as $250. So, we can write the equation: (x + 10) * $15 + x * $10 = $250.
+Step 6: Simplify the equation: 15x + 150 + 10x = 250.
+Step 7: Combine like terms: 25x + 150 = 250.
+Step 8: Subtract 150 from both sides of the equation: 25x = 100.
+Step 9: Divide both sides of the equation by 25: x = 4.
+Step 10: The number of boys who paid the full-year fee is x + 10 = 4 + 10 = 14.
+Therefore, 14 boys paid the full-year fee.",14
+"LaVelle is making a pitcher of caffe mocha. For each ounce of chocolate syrup, she uses five ounces of coffee. How many ounces of chocolate syrup does she need to make 48 ounces of caffe mocha?","Solution:
+Step 1: Identify the ratio of chocolate syrup to coffee, which is 1:5. This means for every 1 ounce of chocolate syrup, LaVelle uses 5 ounces of coffee.
+Step 2: Determine the total amount of coffee needed for 48 ounces of caffe mocha. Since the ratio is 1:5, multiply 5 by 48 to find the amount of coffee needed, which is 240 ounces.
+Step 3: Use the ratio to find the amount of chocolate syrup needed. Since the ratio is 1:5, divide the amount of coffee needed (240 ounces) by 5 to find the amount of chocolate syrup needed. This gives us 48 ounces of chocolate syrup. 
+Step 4: Therefore, LaVelle needs 48 ounces of chocolate syrup to make 48 ounces of caffe mocha.",8
+"Last month Jim and Debbie earned $7,200. Debbie earned $1,600 more than Jim earned. How much did Debbie earn?","Step 1: Let's assume Jim's earnings as ""x"" dollars.
+Step 2: According to the problem, Debbie earned $1,600 more than Jim, so Debbie's earnings can be represented as ""x + $1,600"".
+Step 3: The total earnings of Jim and Debbie is given as $7,200, so we can write the equation: x + (x + $1,600) = $7,200.
+Step 4: Simplify the equation: 2x + $1,600 = $7,200.
+Step 5: Subtract $1,600 from both sides of the equation: 2x = $7,200 - $1,600.
+Step 6: Simplify the right side of the equation: 2x = $5,600.
+Step 7: Divide both sides of the equation by 2 to solve for x: x = $5,600 / 2.
+Step 8: Calculate the value of x: x = $2,800.
+Step 9: Substitute the value of x back into the equation to find Debbie's earnings: Debbie's earnings = $2,800 + $1,600.
+Step 10: Calculate Debbie's earnings: Debbie's earnings = $4,400.",4400
+"Pam is 3 years older than her sister, Jan. The sum of their ages is 99. Find Pam's age.","Step 1: Let's assume Jan's age as x.
+Step 2: Since Pam is 3 years older than Jan, Pam's age can be represented as x + 3.
+Step 3: The sum of their ages is given as 99, so we can write the equation x + (x + 3) = 99.
+Step 4: Simplify the equation to 2x + 3 = 99.
+Step 5: Subtract 3 from both sides of the equation to get 2x = 96.
+Step 6: Divide both sides of the equation by 2 to find x, which is the age of Jan. x = 48.
+Step 7: Substitute the value of x back into the equation x + 3 to find Pam's age. Pam's age is 48 + 3 = 51.",51
+"Sheila and Lenore were driving to their grandmother¡¯s house. Lenore left one hour after Sheila. Sheila drove at a rate of 45 mph, and Lenore drove at a rate of 60 mph. How many hours will it take for Lenore to catch up to Sheila?","Step 1: Determine the rate at which Sheila is driving, which is 45 mph.
+Step 2: Determine the rate at which Lenore is driving, which is 60 mph.
+Step 3: Calculate the time difference between when Lenore left and when Sheila left, which is 1 hour.
+Step 4: Set up the equation d = rt, where d represents the distance traveled, r represents the rate, and t represents the time.
+Step 5: Let t be the time it takes for Lenore to catch up to Sheila.
+Step 6: Since Lenore is catching up to Sheila, the distance traveled by Lenore will be the same as the distance traveled by Sheila.
+Step 7: Use the equation d = rt to set up the equation 45t = 60(t - 1).
+Step 8: Solve the equation for t: 45t = 60t - 60.
+Step 9: Simplify the equation: 15t = 60.
+Step 10: Divide both sides of the equation by 15: t = 4.
+Step 11: The time it will take for Lenore to catch up to Sheila is 4 hours.",3
+"Marcus can drive his boat 36 miles down the river in three hours but takes four hours to return upstream. Find the rate of the boat in still water, in miles per hour.","Step 1: Let's assume the rate of the boat in still water is ""x"" miles per hour.
+Step 2: When Marcus is driving downstream, the boat's speed is increased by the speed of the river, which we'll assume is ""r"" miles per hour. So, the effective speed downstream is (x + r) miles per hour.
+Step 3: Using the formula distance = speed ¡Á time, we can calculate the distance traveled downstream as (x + r) ¡Á 3 miles.
+Step 4: Similarly, when Marcus is driving upstream, the boat's speed is decreased by the speed of the river, so the effective speed upstream is (x - r) miles per hour.
+Step 5: Using the same formula, we can calculate the distance traveled upstream as (x - r) ¡Á 4 miles.
+Step 6: Since the distance traveled downstream and upstream is the same (36 miles), we can set up the equation: (x + r) ¡Á 3 = (x - r) ¡Á 4.
+Step 7: Simplifying the equation, we get 3x + 3r = 4x - 4r.
+Step 8: Rearranging the equation, we get 7r = x.
+Step 9: Therefore, the rate of the boat in still water is 7 times the speed of the river, or x = 7r miles per hour.",10.5
+"Lynn paid a total of $2,780 for 261 tickets to the theater. Student tickets cost $10 and adult tickets cost $15. How many student tickets did Lynn buy?","Step 1: Let's assume that Lynn bought x student tickets.
+Step 2: Since each student ticket costs $10, the total cost of the student tickets is 10x.
+Step 3: The number of adult tickets can be found by subtracting the number of student tickets from the total number of tickets: 261 - x.
+Step 4: Since each adult ticket costs $15, the total cost of the adult tickets is 15(261 - x).
+Step 5: The total cost of all the tickets is $2,780, so we can set up the equation: 10x + 15(261 - x) = 2780.
+Step 6: Simplify the equation: 10x + 3915 - 15x = 2780.
+Step 7: Combine like terms: -5x + 3915 = 2780.
+Step 8: Subtract 3915 from both sides of the equation: -5x = -1135.
+Step 9: Divide both sides of the equation by -5: x = 227.
+Step 10: Lynn bought 227 student tickets.",227
+Yumi wants to make 12 cups of party mix using candies and nuts. Her budget requires the party mix to cost her $1.29 per cup. The candies are $2.49 per cup and the nuts are $0.69 per cup. How many cups of candies should she use?,"Step 1: Determine the cost per cup of the candies, which is $2.49.
+Step 2: Determine the cost per cup of the nuts, which is $0.69.
+Step 3: Determine the desired cost per cup of the party mix, which is $1.29.
+Step 4: Calculate the difference in cost between the desired cost per cup and the cost per cup of the nuts: $1.29 - $0.69 = $0.60.
+Step 5: Calculate the number of cups of candies Yumi should use by dividing the difference in cost by the cost per cup of the candies: $0.60 / $2.49 = 0.241 cups.
+Step 6: Round the number of cups of candies up to the nearest whole number since you cannot have a fraction of a cup: 1 cup.
+Therefore, Yumi should use 1 cup of candies.",4
